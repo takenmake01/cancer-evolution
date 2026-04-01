@@ -60,10 +60,9 @@ species_list = [
 # Check if the species data is already downloaded. Returns None if nothing is saved
 taxa_registry = load_data()
 
-# Else pull sequences for proteins and genes using entrez
 if (taxa_registry):
     print("Sequence data loaded from disk. Good stuff!")
-
+# Else pull sequences for proteins and genes using entrez
 else:
     taxa_registry = {} # Stores references to the TaxaData items in the list, but makes it searchable by common name
     for species in species_list:
