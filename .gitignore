@@ -1,0 +1,18 @@
+# Python bytecode (the compiled junk)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments (if you ever use venv or conda)
+.venv/
+env/
+venv/
+ENV/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Uncomment this if the .pkl is to large!!!
+# *.pkl
