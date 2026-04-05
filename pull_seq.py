@@ -12,7 +12,7 @@ taxa_registry['Human'].cd28['protein_seq'].seq[:50]
 
 '''
 from Bio import Entrez, SeqIO
-from bio_models import TaxaData, load_data, save_data # Get the custom TaxaData Class and pickle methods
+from bio_models import TaxaData, load_data, save_data, write_to_fasta # Get the custom TaxaData Class and pickle methods
 import time
 
 api_email = input("Enter your email for the NCBI Entrez API (required): ")
@@ -89,3 +89,6 @@ else:
 print(taxa_registry.keys())
 print(taxa_registry['Human'].cd28['protein_seq'].seq[:50])
 print(taxa_registry['Human'].cd28['gene_seq'].seq[:50])
+
+# write the registry to a set of FASTA files
+write_to_fasta(taxa_registry)

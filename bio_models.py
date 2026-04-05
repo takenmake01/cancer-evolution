@@ -26,6 +26,56 @@ def load_data():
         
     return None
 
+# write to fasta files
+def write_to_fasta(taxa_registry):
+    cd28_fasta_file_g = open("fastaFiles/sequenceList_cd28_g.fasta", "x")
+    ctla4_fasta_file_g = open("fastaFiles/sequenceList_ctla4_g.fasta", "x")
+    icos_fasta_file_g = open("fastaFiles/sequenceList_icos_g.fasta", "x")
+    pd1_fasta_file_g = open("fastaFiles/sequenceList_pd1_g.fasta", "x")
+    cd28_fasta_file_p = open("fastaFiles/sequenceList_cd28_p.fasta", "x")
+    ctla4_fasta_file_p = open("fastaFiles/sequenceList_ctla4_p.fasta", "x")
+    icos_fasta_file_p = open("fastaFiles/sequenceList_icos_p.fasta", "x")
+    pd1_fasta_file_p = open("fastaFiles/sequenceList_pd1_p.fasta", "x")
+
+    cd28_gene_list = []
+    ctla4_gene_list = []
+    icos_gene_list = []
+    pd1_gene_list = []
+    cd28_protein_list = []
+    ctla4_protein_list = []
+    icos_protein_list = []
+    pd1_protein_list = []
+
+    for taxa in taxa_registry.keys():
+        genes, proteins = taxa_registry[taxa].get_records()
+
+        cd28_gene_list.append(genes[0])
+        ctla4_gene_list.append(genes[1])
+        icos_gene_list.append(genes[2])
+        pd1_gene_list.append(genes[3])
+        cd28_protein_list.append(proteins[0])
+        ctla4_protein_list.append(proteins[1])
+        icos_protein_list.append(proteins[2])
+        pd1_protein_list.append(proteins[3])
+
+    SeqIO.write(cd28_gene_list, cd28_fasta_file_g, "fasta")
+    SeqIO.write(ctla4_gene_list, ctla4_fasta_file_g, "fasta")
+    SeqIO.write(icos_gene_list, icos_fasta_file_g, "fasta")
+    SeqIO.write(pd1_gene_list, pd1_fasta_file_g, "fasta")
+    SeqIO.write(cd28_protein_list, cd28_fasta_file_p, "fasta")
+    SeqIO.write(ctla4_protein_list, ctla4_fasta_file_p, "fasta")
+    SeqIO.write(icos_protein_list, icos_fasta_file_p, "fasta")
+    SeqIO.write(pd1_protein_list, pd1_fasta_file_p, "fasta")
+
+    cd28_fasta_file_g.close()
+    ctla4_fasta_file_g.close()
+    icos_fasta_file_g.close()
+    pd1_fasta_file_g.close()
+    cd28_fasta_file_p .close()
+    ctla4_fasta_file_p.close()
+    icos_fasta_file_p.close()
+    pd1_fasta_file_p.close()
+
 
 
 '''
@@ -63,6 +113,13 @@ class TaxaData:
             handle_p = Entrez.efetch(db="protein", id=item["protein_id"], rettype="fasta", retmode="text")
             item["protein_seq"] = SeqIO.read(handle_p, "fasta") #Convert to SeqRecord and add to protein dict in self
             handle_p.close()
+
+    # a function to return the SeqRecords contained in the class
+    def get_records(self):
+        record_g = [self.cd28["gene_seq"], self.ctla4["gene_seq"], self.icos["gene_seq"], self.pd1["gene_seq"]]
+        record_p = [self.cd28["protein_seq"], self.ctla4["protein_seq"], self.icos["protein_seq"], self.pd1["protein_seq"]]
+
+        return record_g, record_p
 
     def __repr__(self):
         # Count how many protein sequences have been successfully loaded
