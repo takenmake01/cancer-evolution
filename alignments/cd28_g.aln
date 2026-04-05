@@ -1,0 +1,1504 @@
+CLUSTAL FORMAT for T-COFFEE Version_13.45.63.463ab4c0 [http://www.tcoffee.org] [MODE:  ], CPU=0.01 sec, SCORE=333, Nseq=8, Len=7491 
+
+NM_006139.4     ACAC-T-TCG-GGTT-CCTCGGGGAG-GAGGG-GC--TGGAACCCT----
+NM_001124434.1  AGCC------------------------A---------------------
+XM_017482835.3  GAG--AG------T-------GG----TA---------------------
+XM_019481308.1  GAAG-AGGCATGATT-T-TCTGAAT--TAG-A-GC--TG------TAGA-
+XM_048037628.1  CTCA-C------ATC-C-ACGGG-----------C---------------
+XM_007897274.2  TATC-CTGGAAGAT--------------A--A-GC---G-----TTC---
+XM_038786278.1  CCGACCTGTGGGAGTGCCTGGGGGAGGCAG-AGGCAGTGT----TTAGTG
+XM_061595159.1  ATAG-------GGTT-T-TCGTGG---TA--A-GC--GG------T----
+                                                                  
+
+NM_006139.4     ----AGCCCATCGTCAGGACAAAGATGCTCAGGCT-GCTCTTGG--CTCT
+NM_001124434.1  ------C-------CAG---------------------------------
+XM_017482835.3  --A-----T-----------------------------------------
+XM_019481308.1  --AGGGAATG-TTGCAGTTTAGTTACAGCCCTGATAACTGCAACTCCTTG
+XM_048037628.1  -------CT--TCTCA--ACATCG--------------------------
+XM_007897274.2  -----GC-TG-CGGCTGAA----GA-ACTGACCTT------T-------T
+XM_038786278.1  CCCGGGACTGGGCTCAGAGCAGCGGGACTCGCCTTTACTCCAGCTCCTCT
+XM_061595159.1  -----------ATTCAGAG----GG------GGTT------T--------
+                                                                  
+
+NM_006139.4     CAACTTATT---CCCTTCAATTCAAG-TAACAGG-AAACAAG-A--TTTT
+NM_001124434.1  -----------------------------------A--------------
+XM_017482835.3  GAAGC---------------A----C-TGA-GTT----------------
+XM_019481308.1  GAAAC-ATT---CCT-ACCCA----C-TGA-GTC-ACA---G--------
+XM_048037628.1  -ATAC-------------ACA---TC-CGA-TCCGA-------A------
+XM_007897274.2  CGT---TTT---GCTTTCACG----G-TGA-----------G-A--GCTT
+XM_038786278.1  CAGCCGCTTCCTGTTTTCCCT----CTTGA-GCC-AAA---GGAGCCCCC
+XM_061595159.1  --ACC-ATT---GCC-TCCCT----C-TGA-GGC-TAA---G--------
+                                                                  
+
+NM_006139.4     GGTGAAGCAGTCGCCCATGCTTGTAGCGTACGACAATGC-GGTCAACCT-
+NM_001124434.1  -----------------------------------ATG----T-------
+XM_017482835.3  ------G-------------------------------------------
+XM_019481308.1  ----CAGACG--------------------TAACC------CTCAA----
+XM_048037628.1  -----AATA---------------------TTAC----------------
+XM_007897274.2  G---ATTTAT--------CTTTAC-----ATGGC----CGGGAAAGAGT-
+XM_038786278.1  ACCCCCCCGGTCGC-CATCTTCGGCCTGAGTGACCAGCCG-GACAGGGTG
+XM_061595159.1  ----AGGCAG--------------------TGACTGGC----TCAAG---
+                                                                  
+
+NM_006139.4     -T-----AGCTGCAAGTATTCCTACAATCTCTTCTC-A--AGG---GAGT
+NM_001124434.1  ------------------------------CTT-------G---------
+XM_017482835.3  ----------------------------------------TGT---GAA-
+XM_019481308.1  ----------------------------CGC---TCCAGAATT---TAA-
+XM_048037628.1  ---------------------CGT-CATCT--------------------
+XM_007897274.2  -A-----ATGTGTAAAAAAACTGTCCATCT---CCCA---GGG---GA--
+XM_038786278.1  TGAGCTGAGGTCCAGAGGGAGAGGGGAGCGCTTCCCT---GTCGGCCAGC
+XM_061595159.1  --------------------------GTCA---CCC-A--G-T---GAG-
+                                                                  
+
+NM_006139.4     TCCGGGCATCCCTTCAC--AAAGGACTGGATA--GTGCTGTGG-AAGT--
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  -------------------------------T---TGGTGTGTGTAG---
+XM_019481308.1  -------------TAGC--A-AAAAC--AATC--TTGCTCTGGGAAG---
+XM_048037628.1  -------------TCACTATTATGACCGACT-----------CTCAGT--
+XM_007897274.2  TCAGG---T--CCTTA------TTCCTGGGTACCA------GC-CAAC--
+XM_038786278.1  -CTGATGAACCCGGCTG--CAGTGATCGGCTC--G------GG-CAGCCC
+XM_061595159.1  -----------CTTCA----------TGGT--------TGTG--------
+                                                                  
+
+NM_006139.4     -----CTGTGTTGTATATGGGAATTACTCC-CAGCAGCTTCAGGTTTACT
+NM_001124434.1  ---------------------------------T----------------
+XM_017482835.3  ----------------------------TG-C------------------
+XM_019481308.1  ----------------ACTGGAATTCTTTG-CATCAGCT--AAGACGATT
+XM_048037628.1  -----C----------TCG----------T-CAGCAG-------------
+XM_007897274.2  -----------------CCGGACTCACTGCCGAGCAGT-------CGACA
+XM_038786278.1  CTGCTCCCCGCCGTCCCCGGGAG------CAGAGCGC--------CTGCC
+XM_061595159.1  -----------------TGGGGA-------------------------TT
+                                                                  
+
+NM_006139.4     CAAAAAC--GGGGTT--------CAACTGTGATGGGAAAT-TG-GGCAAT
+NM_001124434.1  CA---AC-------------------------------------------
+XM_017482835.3  -A----------------------------------TGTGT-G-TGCAGG
+XM_019481308.1  TAACAAC--TG---T--------CAATTCTGCCCAGAGAGTAA-AGGAAT
+XM_048037628.1  ---GAGC----------------CTGCTGTGC---------------TTT
+XM_007897274.2  CA---GC----------------CGGTCATGCTT------TTGGTGCTCT
+XM_038786278.1  CGCACAC--GGAATCCCCTTCCTCATC-CAGATCGG--CC-TG-AGCAGG
+XM_061595159.1  CGA--ACCCTG---------------CTCT-CCCAGGTCG----------
+                                                                  
+
+NM_006139.4     GAA-TCAGTGACATTC--TACC------TCCAGAATTT-GTATGTTAACC
+NM_001124434.1  --------------------------------GTATGG-TCA--------
+XM_017482835.3  GCA-C---------------------------------------------
+XM_019481308.1  GAA-ATAGTAG-----------AGCTTCTCAAGAGCTG-GC-C-ATAAGC
+XM_048037628.1  GGAAC-----------------------T-------------------CC
+XM_007897274.2  GAA-ACAG--------------------------------GAC----ACC
+XM_038786278.1  GAA-CCCGTCA--TCCTGGA-------CTGCAGCTTCTCAC-TCG-CACA
+XM_061595159.1  -----TAGTT-----------CAGCACCTTAA---CCA-GTCC----ACC
+                                                                  
+
+NM_006139.4     AAACA--GATATTTACTT--CTGCAAAATTGAAGTTATGTATCCTCCTCC
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------GCAC--T-----------------G-------CTCA
+XM_019481308.1  TGTAA--AACAATTACAT--CT-------------AAAGT---TTCCTCA
+XM_048037628.1  AAACG--A-------CATATT-----------------GT--------CA
+XM_007897274.2  AGACA--G--------------------------------------CTCA
+XM_038786278.1  TGTCCGCGAAATGGCCTG--CTCCATCGTGGACCAGAAGT---TTCCTGA
+XM_061595159.1  ACACT--G------------------------------------------
+                                                                  
+
+NM_006139.4     TTACCTAGACAATGAGAA--GAG-CAATG--GAACCATTATCCATGTGA-
+NM_001124434.1  ---C----------------------------------------------
+XM_017482835.3  C--------------------------------------------ACTA-
+XM_019481308.1  GAA---------TGAAGATACTGGTGTTGTTT-ACTTTTATCCTTGTGA-
+XM_048037628.1  ---C--------CGAGGA----------G--GATTCAT---TCA----AT
+XM_007897274.2  ------------CGAGCA--CCG-CGTAG------CA--A-TCGC---A-
+XM_038786278.1  ATGTGGATTCTACGGGAT--GTA-CGATA--AAATCCTTTT-GTTTCGA-
+XM_061595159.1  ------------TAAGG--------ATTG--C-ACT-TTCTTCACACGA-
+                                                                  
+
+NM_006139.4     AAGGGAAACACCTTTGTCCAAGTCC---CCTATTTCCCGGACCTTCTAAG
+NM_001124434.1  ----------------------------TT--------------------
+XM_017482835.3  AAGG--TTAA----------------------------------------
+XM_019481308.1  ATGG-GTTGATT-ATGGGCAT-----------------------------
+XM_048037628.1  AAGG-ATA------TGTCCAT--CA---T---------------TATAA-
+XM_007897274.2  AAGG-ATGGA--TT---TCAA--CGTAAT---------------------
+XM_038786278.1  CATGAAGCCAACTCCGAAAACATCC---TACAGTTGGTGAAGGCTGCAAC
+XM_061595159.1  AAGG-A--------------AATCC---TT--------------------
+                                                                  
+
+NM_006139.4     CC---CT-TTTGGGT----------G----CTGGTGGTGGTTGGTGGAGT
+NM_001124434.1  ----------TGG-------------------------------------
+XM_017482835.3  ------T--TAGGC------------------------------------
+XM_019481308.1  TGACACT--TCGACTCTACAGAGTTGTTTGC-------------AAGA--
+XM_048037628.1  -----------GGC---ACAT-----TTTGA-------------AAGAG-
+XM_007897274.2  ---------TCGGCT-------GTTGAGCGG-------------AAGAG-
+XM_038786278.1  TG---ATATTCAAGA--------------GGGAGACTTGATTGAAGTTGT
+XM_061595159.1  ----------CGGTT----------G----C-------------ATG---
+                                                                  
+
+NM_006139.4     CCTG---GCTTG---CTATAGCTTGCTAGTAAC--AGTGGCCTTTATTAT
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  -------GC-AG---CT---------------------------------
+XM_048037628.1  --------C-----------------------------------------
+XM_007897274.2  --------C-TG---C-----GGTGCTGGTGAT--A--------------
+XM_038786278.1  CCTCTCAGC-TGCTGCCACATTTGAAGATTTCCAGATTCGACCACACACC
+XM_061595159.1  -------GC-CG---CTA--------------------------------
+                                                                  
+
+NM_006139.4     TTTC-TGGGTGAGGAGTA-AGAGGAGCAGGC--------TCCTG----CA
+NM_001124434.1  ----------------------------TGC--------TCC--------
+XM_017482835.3  --------------------------CA----------------------
+XM_019481308.1  -------------------GAGGCTCCAGGC--------TCAGG----T-
+XM_048037628.1  --------------------------C-CG---------TCC--------
+XM_007897274.2  -----------------------------GCCCCGACGGTGCTG----CT
+XM_038786278.1  TTGTTTG-TCCATTCCTACAGAGCGCCTGCA--------TTCTGTGATCA
+XM_061595159.1  ----------------------------------------CC--------
+                                                                  
+
+NM_006139.4     CAGTGACTACATGAAC-ATGACTCCCCGCCGCCCCGGGCCCACCCGCAAG
+NM_001124434.1  ----------TGG-------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  --GAGACTTCTGGAAC-ATC----------------------GTGTAAAG
+XM_048037628.1  ----------AGGAA-------TCTCC--------------------A--
+XM_007897274.2  CAGTG--------------TGCTCTCCGC---------------------
+XM_038786278.1  CTGTGGGGAGATGCTGTGGGGATTAGTGC-GGCAGGGACTCAAATGCGAA
+XM_061595159.1  ----------ATGAA----------------------------------C
+                                                                  
+
+NM_006139.4     CATTACCA--------------------GCCCTATGCCCCACCACGCGAC
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  ------------------------------------------------GT
+XM_019481308.1  CAGCAGCA--------------------G-------------GTAAAAAT
+XM_048037628.1  -------------------------------------------------T
+XM_007897274.2  -CGCCGAG--------------------CGAGCGTGTCCG----------
+XM_038786278.1  GGATGTGGTCTCAATTACCACAAGAGATG---------------------
+XM_061595159.1  TGGCACC----------------------AAATA---------------T
+                                                                  
+
+NM_006139.4     TTCGCAGCCTATCGCTCCTGACACGGACGC-CT----------------A
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  AAGTAGA----------------------G-CC----------------T
+XM_019481308.1  TGTGCAG----------------------C-TC----------------T
+XM_048037628.1  TGTACGG----------------------C-CT----------------A
+XM_007897274.2  --AGCAGC-------------------TGCCGG----------------T
+XM_038786278.1  --TGCGTT-CAAAATTC---------------CTAATAACTGCAGTGGTG
+XM_061595159.1  GGTAC---CC------------ATGG---A-CT----------------A
+                                                                  
+
+NM_006139.4     TCC-------------------------A--G-AAGCCAGCCGGCTG---
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  TA------------------------------------------------
+XM_019481308.1  TAC-------------------------A----------------GGAGA
+XM_048037628.1  TAC-------------------------------------------G---
+XM_007897274.2  GTC-------------------------ACGGCAAAATAGTCTACTG---
+XM_038786278.1  TGCGTAAGAGGCGCCTCTCCAATGTCTCA---------------------
+XM_061595159.1  TAC-------------------------A----------------AG---
+                                                                  
+
+NM_006139.4     -GCAGCCCCCATCTGCT-CAATATCA-CT---GCTCTGGATA--------
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  GGGAGA---------TT-CAATA-CAGTG---ATAGGGGAGA--------
+XM_048037628.1  -GCAG----------------TATCAT-TTCGA-CTTCAACA--------
+XM_007897274.2  -CGAGTCG------------CTAACG------------------------
+XM_038786278.1  -------CTCACCGGATTGAGTA------------------CTTCAAGGT
+XM_061595159.1  --GA----------------ATC-CAGAT---GTT---------------
+                                                                  
+
+NM_006139.4     -----GGAAATGA--------------------------C---------C
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  -------------------------------------TGGCAAGAATCTG
+XM_019481308.1  -----TGAAAACAGCGTCATTGACCTGGGAGAAAAAAGACAGTATGCAGA
+XM_048037628.1  -----GCAA--------------------------------CTAT-----
+XM_007897274.2  --------------------------------------------------
+XM_038786278.1  CCGTCTCTAATGA--------------------------T----------
+XM_061595159.1  -------AAACTA--------------------------C-CTATGCAGC
+                                                                  
+
+NM_006139.4     GCCATCTC---------------------------------CAGCCGGCC
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  --------------------------------------------------
+XM_048037628.1  --------------------------------------------------
+XM_007897274.2  --------------------------------------------------
+XM_038786278.1  -CTATCACCGAGCGCTCCAGAGGAGATGTTGCTGCAGAAGAC--------
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     ACCTCAGGCCCCTGTTGGGCCACCAATGCCAATT----------------
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------AT----------------
+XM_019481308.1  --------------------------------TT----------------
+XM_048037628.1  --------------------------------------------------
+XM_007897274.2  --------------------------------------------------
+XM_038786278.1  ---------------------AGCA-TCTGAGTCTTTCATTGGAAGAGAG
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     ------------TTTCTCGAGTGACTAGACCAA-ATATCAAGA-------
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  ------------CCACC--------------GA-----------------
+XM_019481308.1  ------------GTGCT--------------GAGAT-TTACAA-------
+XM_048037628.1  --------------------------------------CAA-GTATCCTG
+XM_007897274.2  --------------------------------------------------
+XM_038786278.1  AAACGCTCAAATT-------------------------CACAG-------
+XM_061595159.1  -------------------------------TC-ATAGTAA---------
+                                                                  
+
+NM_006139.4     ---------TCATT--TTGAGACTCTGAAATGAAGTAAAAGAGATTTC--
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  ---------TGAT-----G-GA------TA-TAAGCAAAGTGGATTTTAC
+XM_048037628.1  GACATCCAATCATT--------------------------GT-AACTC--
+XM_007897274.2  ----------------------------------CTGCAGGAAATTCC--
+XM_038786278.1  ---------TCATACATTG-GTCGTCCCATTCAACTGGATAAGATTTT--
+XM_061595159.1  ---------ACAT-----G---------CCAGAACTAAAGGAGAACCC--
+                                                                  
+
+NM_006139.4     ------------CTGTGACAGGCCA-AGTCTTACAGTG----------C-
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --CAGGTAACCT---------------------TATAG----------T-
+XM_019481308.1  AAGATGAAACCTCT------------------TCAGAG----------T-
+XM_048037628.1  ------------C-------------------TCAGG-------------
+XM_007897274.2  ------------TC------------------CCAACATCTCGCCCGGCA
+XM_038786278.1  ------------CCTTT-----CCAAAG--TTAAAGTG------------
+XM_061595159.1  ------------CT------------------TCAGGG------------
+                                                                  
+
+NM_006139.4     --------------------------------------------------
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  --------------------------------------------------
+XM_048037628.1  --------------------------------------------------
+XM_007897274.2  CTCTGGGGCTGTCGCTGCGGTACAACAGCGTCCAGAGGCTGAGCCACAAC
+XM_038786278.1  --------------------------------------------------
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     -------CATGGCCCACA-TTCCAACTTAC-CATGTAC--TTAGTGACTT
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  -------CAGACA----------------T-C---GTCTG----T-----
+XM_019481308.1  -------CCTAGT--GAA-TTCC---TTGC-C---TACTG----TGACAT
+XM_048037628.1  ------------CC-----------------------C-----------T
+XM_007897274.2  CAGTTCACGGGGCTC----AACCAACTCA------------------CTT
+XM_038786278.1  ------CCT---CACACATTTGCAATTCATTCTTACACC--CGGCCCACT
+XM_061595159.1  ----------AGA--GGA-T-------TGT-C---CACTCT-------TT
+                                                                  
+
+NM_006139.4     GACTGAGAAGTTAGGGTAGAAAAC---AAAAAGGGAG-TGGATTCTGGGA
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  ---------------------------------------------G--TC
+XM_019481308.1  GTC--AGAAGG-----TG-GAGGC--------TGGAC-TG-TTTTTCAGA
+XM_048037628.1  CTTTGGC-GGC-A----------C---AG----GAAG-TG-CTCCTG---
+XM_007897274.2  GGCTG---------------------------------------------
+XM_038786278.1  GTTTGCC-AGT-ACTGTAAGAAGCTTTTAAAAGGGCTTTTTAGACAAGGA
+XM_061595159.1  TGCTGAGGA--------------C---G---ACGAGG-GG---------A
+                                                                  
+
+NM_006139.4     GCCTCTTCCCTTTCTCACTCACCTGCACATCTCAG-TCAAGCAAAGTGTG
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  AT-----CAG--CCCTTA-TATAAGT------------------------
+XM_019481308.1  GA-----CGT--TCTGAC-GGCAGCCAGAACTTTG-AT----AGAGTATG
+XM_048037628.1  -----------------------------GCTCGGGTCAA----------
+XM_007897274.2  ----------------------------TACC------------------
+XM_038786278.1  GT----GCAGTGTAAAGATTGCAAGTTCAACTGTC-ATAAACGATGTGCC
+XM_061595159.1  ACCT-----------------------CAGCTTTA---------------
+                                                                  
+
+NM_006139.4     GT---ATCCACAGACATTTTAGTTGCAGAAGA-------AAGGCTAGGAA
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  G--------GCTGAC----------------TATGAACAAGGTTTTGGAA
+XM_048037628.1  -----------------T-C------------------AAGG--------
+XM_007897274.2  --------------------------------------------------
+XM_038786278.1  CCAAAAGTACCAAATAATTGCCTTGGTGAAG---------TGGCTATTAA
+XM_061595159.1  ----------ACGAC---TTTGTT----GACA-------TG---------
+                                                                  
+
+NM_006139.4     ATCATTCCTTTTGGTTAAA-TGGGTGTTTAATCT----------------
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  ATTTT--GTCTT-GA-----------------------------------
+XM_048037628.1  -------------------ACCGGT-------------------------
+XM_007897274.2  ---------------------------TGGATCACAACTACATCAGCGCC
+XM_038786278.1  TGGA---GATTTGCTCAGCCCTGGTGCTGAATCA----------------
+XM_061595159.1  ----------------TTC-TCCGT-------------------------
+                                                                  
+
+NM_006139.4     -----------TTTGGTTAGTGGGTTAAACGGGGTAAGTTAGAGT-AGGG
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  -------------------------GAAATGG------------------
+XM_048037628.1  ------------------AGTGGGATAGGCAG------------------
+XM_007897274.2  GTCGACGAACACGCGTTTAACGGGA-------------------------
+XM_038786278.1  ---------GATATAGTTA-TGG--AAGACGGGAGTGATGACAATGACGG
+XM_061595159.1  ------------------ACTCAGCGAAACGGC-----------------
+                                                                  
+
+NM_006139.4     GGAGGG-A-----------------------------------------T
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  -----C-CACGCTCACTGGG------------------------------
+XM_019481308.1  ----TG-AATACTGGCTTGGAAATAAAAATCTTCACTATCTGACCAGTCA
+XM_048037628.1  -----GGAACACC-------------------------------------
+XM_007897274.2  --------------------------------------------------
+XM_038786278.1  TGAAAAAA------------------------------------------
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     AGGAAGA------CATA-TTTAAAAACCATT-AAAACACTGTCTCCCA--
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  ---AAAC------A-CA---------------------------------
+XM_019481308.1  AGGAAAC------TATACTTTAAGAATCAAT-------------------
+XM_048037628.1  --------------------GGATAC-C-------TGACT-TCGCCC---
+XM_007897274.2  -------------------------------------TCCGCAGACT---
+XM_038786278.1  -----ACAGTGCGCTTA-TC-GATGA-CATGGAAGAGTCCATATCTCATG
+XM_061595159.1  --TCCTC------GAGA-GCTAAAAGC--------AATCT-ATGCCT---
+                                                                  
+
+NM_006139.4     -CTCATGAAAT---GAG-CCACGTAGTTCCTATTTAATGCTGTTTTCCTT
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  --------------------------------------------CTAATT
+XM_048037628.1  ----------------------------------GCACGCT-----CT-T
+XM_007897274.2  -------------------GAAGGAG----------CTGATCCTGAGTTC
+XM_038786278.1  ACTC-TGAAATATTAATCCCAGGGAGT-CATG-GTGATGATGGTGACATG
+XM_061595159.1  ----------------------------------TTAAGAT-----CTAT
+                                                                  
+
+NM_006139.4     TAG-TTTAGAAATACATAGAC--------------------A--------
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  ----CATTG----AGAAGAGCTGTGCTTTGAA------------------
+XM_019481308.1  GAT-TTTGA----AGAAGAACAGCGCTTTGCACAGTATACAAACTTCAGA
+XM_048037628.1  G---TTCGG-----CACGAAC--------------------GAC----AA
+XM_007897274.2  CA---------------------------------------------ACA
+XM_038786278.1  CAGGACCATGAACACGATGAT---------------------------GC
+XM_061595159.1  GAT-TTTAA-----CACGGAC--------------------AACTTT--A
+                                                                  
+
+NM_006139.4     ---TTG---------TCTTTTATGAATT---CTG--------------AT
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  -CCAGC--------------------------------------------
+XM_019481308.1  GTTGCA--------------------------------------------
+XM_048037628.1  TCTTCA--------------------------------------------
+XM_007897274.2  AAATCGCCCGATTGCTGAATAACACTTT---CCGCCCGGTCACTAACCT-
+XM_038786278.1  AAACCG-----------CACTATAAGCCCTTCCG----------------
+XM_061595159.1  TTTGCA--------------------------------------------
+                                                                  
+
+NM_006139.4     CATATTTAGT-----CATTTTGACCAAAT-------------GAGGGATT
+NM_001124434.1  -----------------------------------------------TTT
+XM_017482835.3  --------------------------AGGGGAGTGA------CTGCACAT
+XM_019481308.1  --------------------------GATGGAGAGA------GTTCATAC
+XM_048037628.1  --------------------------AGT---------------------
+XM_007897274.2  --------------------------------------------------
+XM_038786278.1  --CAAGTAATAACATTCCTTTGA------------TGAGAGTGGTACAGT
+XM_061595159.1  --------------------------AAT---------------------
+                                                                  
+
+NM_006139.4     TGGTCAAATGAGGGATTCCCTCAAAGCAATATCAGGTAAACCAAG-TTGC
+NM_001124434.1  TCCTATTGCTTAATGTTGTGGAGGATGAGGCTGCATCATTTCCCT-TCTC
+XM_017482835.3  CGG-----------------------------------------------
+XM_019481308.1  TGG---------------------------------------------AT
+XM_048037628.1  CGGT-------------------CCCAGTTCC------------------
+XM_007897274.2  --------------------------------------------------
+XM_038786278.1  CTGTTAAACACACAAAGAGGAGAAGTAGTACTGTACAGAAGGAGGGTTGG
+XM_061595159.1  CTG---------------------------------------------AT
+                                                                  
+
+NM_006139.4     -------TTTCCT-------------------------------------
+NM_001124434.1  -------TTGCCC-------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  GACTTGTGGTGAATACTCAGGCACAGCTGGAGACTCCTTTACTGGGGGGT
+XM_048037628.1  --------------------------------------------------
+XM_007897274.2  --------------------------------------------------
+XM_038786278.1  -------ATGGTT-------------------------------------
+XM_061595159.1  -------CTGGAA-------------------------------------
+                                                                  
+
+NM_006139.4     --CACTC--CCTG-------------------------------------
+NM_001124434.1  --CA--C--CCT--------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  TTCA--C--CCTG-------------------------------------
+XM_048037628.1  --------------------------------------------------
+XM_007897274.2  ------------CCGCAAT-------------------------------
+XM_038786278.1  --CACTTCACCAG-------------------------------------
+XM_061595159.1  --CAAAC--CCTCAACAAGTTGACAAAAGAAGAGCTCACTGAAGAAGAGG
+                                                                  
+
+NM_006139.4     --------TCATGAGACTTCAGTGTTAATGTTC--ACAATATACTTTCGA
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  -------------------AAGTGAAA-TGGTG-GGC----TGATCACCG
+XM_048037628.1  ------------GACG--------CCGCCGT-------------------
+XM_007897274.2  --------------------------------------TTGGATCTATCG
+XM_038786278.1  --------CAAGGACACT-CTGCGAAAAAGG-CACTATTGGAGACTAGAT
+XM_061595159.1  TTAGCCTGG--------T-TTGCGAAAAAGT-C--A--TTGAAG------
+                                                                  
+
+NM_006139.4     AAGAATAAAATAGTTCTCCTACA-----------TGA------AGAAAGA
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  AGGAATGAAAT----TCAGTACA-----------CGA-----GACAGAGA
+XM_048037628.1  --------------------TCAAGATGTCACTAG---------GACAGA
+XM_007897274.2  TACAACCAACT----CCAGT------------------------------
+XM_038786278.1  AGTAAATGCATCACCCTCTTTCA-----------GAATGATACAGGAAGC
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     ATATGTCAGGAAATAAGGTC-----ACTTT-ATGTCAAAATTATTTGAGT
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  TAATGACAACTATGAAGGGA-----ACTGCGCTG---AAG----------
+XM_048037628.1  ATAT----------------------------------------------
+XM_007897274.2  -------------------------------CTCTGGAAG----------
+XM_038786278.1  AAATATTAC-----AAGGAAATTCCGCTTT-CTG---AAATT-----TTA
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     ACTA--------------------------------TGGGACCTGGCGCA
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  -AGG--------------------------------ATAAATCTGGCT-G
+XM_048037628.1  -----------------------------------------CCTGT----
+XM_007897274.2  -CGGAGCAGTTTCGGGGTTTGCGTAAACTTCAGAGCTTACACCTG-----
+XM_038786278.1  TCTC--------------------------------TGGAACCTGGAA--
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     GTGGCTCA-TGCTTGTAATCCCAGCACTTTGGGAGGCCGAGGTGGGCAGA
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  GTGGTTTAACAGGTGTCACTCTGCCAACTTGAATG-GTGTGTACTACAAA
+XM_048037628.1  ------------------TGACTG----TTGGGA----------------
+XM_007897274.2  -CGGTCC---------AACTCTCTCAGA------ACAGTCCCCGTCCGAA
+XM_038786278.1  AAAACTTT-AACTTATTA--CCTG----CT-GGAG-CCAATCATCAC---
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     TCACTTGAGATCAGG---ACCAGCCTGGTCAA----GATGGTGAAAC---
+NM_001124434.1  -------------------------------------------GAGT---
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  GGACCTTATACCG-----------CAAAAACA----GACAATGGAAT---
+XM_048037628.1  ---GTTGA--------------------A---------GC----------
+XM_007897274.2  TCTTCCAAGACTG-----------CCGAA---------ACCTGGAATTTT
+XM_038786278.1  TGTTTTGAAATTACCACCGCCAGTGTTGTCTATTTTGTTGGGGAAAA---
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     ----TCC-------------------------------------------
+NM_001124434.1  ----GGA-------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  ----T---------------------------------------------
+XM_048037628.1  -------GTCTGGCTCTCGAGCAAGGCGTCAACTGGTGGGATAAAGACGC
+XM_007897274.2  TAGACCTG------------------------------------------
+XM_038786278.1  ----CCT-------------------------------------------
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     ---------------------GTCTGTA--CTAAAAAT----ACAAAATT
+NM_001124434.1  ---------------------GTCT-------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  ---------------------GTTTG----------GT----AC---ACA
+XM_048037628.1  TCAAACACAAGC--------------------------------------
+XM_007897274.2  -----------GGATACAACCG-------------TAT----CCGGAGTT
+XM_038786278.1  ---------------------GACTAATCATTTGA-GTTCACCCAAAAGC
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     TAGCTTGGCCTGGTGGCAGGCACCTGTAATCCCAGCTGCCCAA----GAG
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  TGGCGTGGG-TGGTGGTATTCT-CTGAAATCT--GTTGTC-AT----GAA
+XM_048037628.1  --------------------------------------------------
+XM_007897274.2  TAGCTC--------------------------------------------
+XM_038786278.1  AACAGTGTGTTGACAGGTGGCA-CTGGGTTGGATGTTGCCCAGATGTGGG
+XM_061595159.1  ------------------------------------------------AA
+                                                                  
+
+NM_006139.4     GCTGAGGC------AT-GAGAATCGCTTGAACCTGG-CAGGC-GGAGGTT
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  G------------------------GTCAGAC------CAGC-CGACTT-
+XM_048037628.1  --------------------------------------------------
+XM_007897274.2  ------------------GGAATGCCTT--CGCGGG-CCTGA-CCAGG-C
+XM_038786278.1  AGTTGGCC------ATTCAGCATGCCTTGATGCCGGTCATTCCGAAAGGT
+XM_061595159.1  GCTGATATGGATGGTG-ATGGGAAGCTTGGA-------------------
+                                                                  
+
+NM_006139.4     GCAGTGAGCCGAGAT-AGTGCCACAGCTCTCCAGCC-TGGGCGACAGAGT
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  ----TGAGCCCA-AT-GTTGTTTAAG-TATTTAGTT-AAGGTGATTTATC
+XM_048037628.1  --------------------------------------------------
+XM_007897274.2  TCACT---------------------------------------------
+XM_038786278.1  TCATC-T-TCAGGATCCGTG-CACAGCC-TGCATAGAGATGTGTCCATCA
+XM_061595159.1  ---------------------TTTTCTGATTTTGAA-AACATGA------
+                                                                  
+
+NM_006139.4     GAGACTCCATCTCAAACAACAACAACAACAACAACAA---CAACAACAA-
+NM_001124434.1  ----------------------GTCGAAAACTTTGCC---TGCCAAC---
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  CAG--TTAATCTT-------------TTAACAAATTA---AGTCAACAG-
+XM_048037628.1  --------------------------------------------------
+XM_007897274.2  GA-ACTGCACCTGGAGC----------------------------ACAA-
+XM_038786278.1  GCATTTCAGTGTCAAACAGCCAGATCCAGGAGAATGTGGATATCAGTATG
+XM_061595159.1  --------TTTCCAA-----------------------------------
+                                                                  
+
+NM_006139.4     ----ACCACAAAATT--ATTT-GAGTAC---TGTGA--AGGATTATTTGT
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  -------------------------ATG---AATAT--------G----T
+XM_019481308.1  -------GCA-G-TT--TTTT-TTCTGA---TTTAA--------A----T
+XM_048037628.1  -------------TT------------ACATGAACA--------------
+XM_007897274.2  -------CCA-G-TT--TT--------CCAAGATCA--------A----C
+XM_038786278.1  GTGTATCAGATATTTCCAGATGAAGTAC---TGGGATCTGGACAATTTG-
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     C--TAACAGTTCATTCCAATCA----------GACCAGGTAGGAGCTTTC
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  CTCT----------------------------------------------
+XM_019481308.1  C--TG--AGGTAATTTCATCCA----------AATCAG-----TGTTATT
+XM_048037628.1  --------------------------------------------------
+XM_007897274.2  C--TG---GCTCACTTC--CCACGGCTGCTCACCCTGCG---GA------
+XM_038786278.1  ---GAATTGTCTAT-GGAGGCA----------AACATCGGAAGA------
+XM_061595159.1  --------------------AG----------CACCAG-ATTTTCTCAGC
+                                                                  
+
+NM_006139.4     CTGTTTCAT--ATGTTTCAGGGTTGCACAGTTGGTCTCTTTAATGTCGGT
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  TAGATGCAA--ATG----AGA---GCAGAATCTGGC--CGTAA-GTCGG-
+XM_048037628.1  TCAAGACAT--ATCTTCCTCAATTGCA----CG-----------------
+XM_007897274.2  --------------TCCTCTACTTGCA--GT-----GGAATAAGATCAGC
+XM_038786278.1  CGGGGAGAG--ATGTAGCAAT-CAAAATAATTGATAAGCTAAGATTCCCA
+XM_061595159.1  ACCTTCCATATACG------------------------------------
+                                                                  
+
+NM_006139.4     GTGGAGATCCAAAGTGGGTTGTGGAAAGA-GCGTCCATA--GGAGAAGTG
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  ---CAGATACAAAG--ACTTGTATTAATA-A---ACATA--T-------G
+XM_048037628.1  ------------------------AAACA-GC------------------
+XM_007897274.2  GTCGTGATCCAAGGCATGTCCTGG--------------------------
+XM_038786278.1  ACAAAGCAAGAAAGTCAGCTTCGGAATGAAGTTGCCATTTTACAGAACTT
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     AGAATACTGTGAAAAAGGGATG-TTAGCATTCATTAGAGTATGAGGATGA
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  -----------------------------CACTGA-----------TATC
+XM_019481308.1  GGAT---TTTTAAAAAGGCAGGGCAAACGTTCATC-----------CAGG
+XM_048037628.1  ---------AATT--------G-CTAT-----------------------
+XM_007897274.2  --------------------ACT-TGG-----------------------
+XM_038786278.1  GCATCATCCTGGTGTCGTGAAT-TTGGAATGCAT----GTTTGAGACT--
+XM_061595159.1  -----AATCTGAAAA-----TG-TTG------------------------
+                                                                  
+
+NM_006139.4     GTCCCAAGAAGGTTCTTTGGAAGGAGGACGAATAGAATGGAGTAATG---
+NM_001124434.1  -----AGAGATGTTCTTTG-------------------------------
+XM_017482835.3  CTCTCTGCTGAAGCCATTG--------------AGAAT------------
+XM_019481308.1  GTTCATGGCAGCTTCCATTGATGTAGAAT---CTGAAAGGTGGCAAC---
+XM_048037628.1  -----------------------------------CCTAGATCAA-----
+XM_007897274.2  --------A-G-CTCTTTGGAA-AAGCTGGACCTGTCTG--GGAATG---
+XM_038786278.1  CTAGAAAGAGTGTTTGTTGTCAT--GGAAAAGCTCCATGGAGACATGCTG
+XM_061595159.1  ------GGCTGAACCATTGGAAA----------GAATTGGACACCT----
+                                                                  
+
+NM_006139.4     -AAAT--TCTTGCCATGTGCT-GAGGA-GATAGCCAGCATTAGGTGACAA
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  -----------------------------------------------GCC
+XM_019481308.1  -AACT--TC-----ATCTCCC-AAG------AGGCACAATGAGGCCACAA
+XM_048037628.1  -------TATCCCCAT----------------------------------
+XM_007897274.2  -AAAT--CC-----AAGCCA--TAGGA------CCA-AAC-GTGTTTCAG
+XM_038786278.1  GAAATGATCCTGTCAAGCGAGAAAGGACGACTGCCAGAAC-GCATAACAA
+XM_061595159.1  --------CT------------------------------------CCTG
+                                                                  
+
+NM_006139.4     TCTTCCAGAAGTGGTCAGGCAGAAGGTGCCCTGGTGAGAGCTCCTTTACA
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  AT--TAAG-GACTGTGAAG---------C---------------------
+XM_019481308.1  CA--TCAGGAGTGCTCAGGGAGGAGACAT----------ATTCCTA----
+XM_048037628.1  ---ATCAGCA-------------AGATACCTTA-TTTG------------
+XM_007897274.2  T----------------------GTGTGCCT-----------AACTTACA
+XM_038786278.1  CGTTTCTT-ATTACACAGATACTTGTTGCTTTG-CGGCATCTCCATTTTA
+XM_061595159.1  CCTTTCAGAATC--TCAG---------GCCCTG-TGA--GC---------
+                                                                  
+
+NM_006139.4     GGGACTTTATGTG-------------------------------------
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  -TGACTTGC-----------------------------------------
+XM_048037628.1  ---CTTATATGTG-------------------------------------
+XM_007897274.2  GACACTGCATCTG-------------------------------------
+XM_038786278.1  AGAAT-ATAGTTC-------------------------------------
+XM_061595159.1  ------ATACGTCCTCCTCCTCCTCTGAATTCTGAAAGAAAGGACTCAAA
+                                                                  
+
+NM_006139.4     --------------------------------------GTTTAGGGCTCA
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  -------------------------------------TAGTGAGG--ATG
+XM_048037628.1  --------------------------------------GTATA-------
+XM_007897274.2  --------------------------------------GATT--------
+XM_038786278.1  ---------------------------------------ACTGTGACTTG
+XM_061595159.1  GAATCTTGGACCATCATGGTGATGCTGAAGTACCACTGTTTT--------
+                                                                  
+
+NM_006139.4     GAGCTCCAAAAC-----TCTGGGCTC-------------AGCTGCTCCTG
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  GTGTTGGAAAAC-----ACTG-----------------------------
+XM_048037628.1  ------------------------------------------TACTTCT-
+XM_007897274.2  -----CCAACA----------AGCTCACCACCCTCGGGCAGGAGATC---
+XM_038786278.1  AAACCCGAGAATGTGTTGCTGGCGTC-------------AGCGGATCCCT
+XM_061595159.1  -----CCAAA----------------------------------------
+                                                                  
+
+NM_006139.4     TACCTTGGAGGTCCATTCA-------------------------------
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  ----------TAGGATTCAAAACTGCGCACAATGGCAGAACTGCTGATGG
+XM_048037628.1  ----CAGCTTTTGAGTTCA-------------------------------
+XM_007897274.2  --------------------------------------------------
+XM_038786278.1  TGCCA--CAGGTCAAGCTT-------------------------------
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     -------------C------------------------------------
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  ATGGCAGGAGTGGA------------------------------------
+XM_048037628.1  --------------------------------------------------
+XM_007897274.2  --------------------------------------------------
+XM_038786278.1  -------------TGTGACTTTGGATTTGCACGTATAATTGGGGAGAAGT
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     -----------------------------------ATGGGAAAGTATTTT
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  --------------------------------------------------
+XM_048037628.1  ----------------------AACGC-----------------------
+XM_007897274.2  -----------------------------------------CTGGAC---
+XM_038786278.1  CTTTCAGGCGTTCTGTGGTGGGAACGCCAGCATATT--------------
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     GGAATGTGTCTTTTGAAGAGAGCATCAGAGTTCTTAAGGGACTGGGTAAG
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  --------------------------------------------------
+XM_048037628.1  --------------------------------------------------
+XM_007897274.2  --------------------------------------------------
+XM_038786278.1  --------------------------------------------------
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     GCCTGACCCTGAAATGACCATGGATATTTTTCT-ACCTAC--AGTTTGAG
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  -------------ACCACCAC----------CT-ACCTGCACATCCTGAG
+XM_048037628.1  --------------------------------------------------
+XM_007897274.2  ---TCGTTCATAT---------CCCTCACTTC------------CATCAG
+XM_038786278.1  --------------TGGCTCCAGAAGTACTTCGGAACAAA--GGTTATAA
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     TCAACTAGAATATGCCTGGGGACCTTGAAGAATGGCCCTTCAGTGGCCCT
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  -----------------------------------------CCCAGACTC
+XM_019481308.1  ------------------------------AAGATGAGAGATCAGGCTGG
+XM_048037628.1  ------------------------CCGCCGGCGGTACAGTCGCGCCCTCC
+XM_007897274.2  CCTCTCGGGAAATATCTGGGAATGC-------------------------
+XM_038786278.1  CCGATCGTTAGAT-------------------------------------
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     CACC----------------------------------------------
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  CTTCA---------------------------------------------
+XM_019481308.1  TACCA---------------------------------------------
+XM_048037628.1  TACCACTCCCCATCCCGGTAACACGGATGCCGTCCTTCCTGTGACACCGG
+XM_007897274.2  --------------------------------------------------
+XM_038786278.1  --------------------------------------------------
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     ----------------ATT-------------------------------
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --GTTACAAGAAATTTTTC-------------------------------
+XM_019481308.1  --GATGTCCAGCTCGTATT-------------------------------
+XM_048037628.1  CAGGGCCTTC----------------------------------------
+XM_007897274.2  -------AACAGGAACATA-------------------------------
+XM_038786278.1  ------------------ATGTGGTCTGTAGGCGTTATCGTCTATGTCAG
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     ----TGTTCA----------TG----------------C-----------
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  ----CAGGTG----------ATTGGCCTGACTAAGAAAAGT---------
+XM_019481308.1  ----TTCTTA----------TGCCAGTAGGAATGCCAATGG---------
+XM_048037628.1  --------------------------------------------------
+XM_007897274.2  ----TGTTCCCTTGTGAACTGG----------------------------
+XM_038786278.1  CCTTAGTGGA----------ACC---------------------------
+XM_061595159.1  --------------------------------------ACCTTTTTGGAA
+                                                                  
+
+NM_006139.4     --------------------------------------------------
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  --------------------------------------------------
+XM_048037628.1  --------------------------------------------------
+XM_007897274.2  --------------------------------------------------
+XM_038786278.1  --------------------------------------------------
+XM_061595159.1  TTATCCATGGAGGTGTTTGGCTTTTTAAAACCTTCGCCGTTGGTCAGCAC
+                                                                  
+
+NM_006139.4     ------------------------------TTCAGTTA------------
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  --------------------------------------------------
+XM_048037628.1  ------TGGAGTGAGGTTGTTGGA--------------------------
+XM_007897274.2  --------------------------------------------------
+XM_038786278.1  ----------------------------TTTCCATTTAATGAGGATGAAG
+XM_061595159.1  TGTTGCAGGTGTGAAGTTGCTGGGTTGTTGTTTTTTTA------------
+                                                                  
+
+NM_006139.4     -------------ATTCAGGTGTTGAAGGAGCTTAGGTTTTAGAGGCACG
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  ---------------------------------------CCAGAGGAAGT
+XM_019481308.1  ---------------------------------------GGGTGGGCAGG
+XM_048037628.1  --------------------------------------------------
+XM_007897274.2  ----------------------CTGAAGA---------------------
+XM_038786278.1  ACATTCATGATCAA-----------------------------ATCCA-G
+XM_061595159.1  -------------A-CCAG-------------------------------
+                                                                  
+
+NM_006139.4     TAGACTTGGTTCAAGTCTCGTTAG--------------------------
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  CAGGGAAGTGTTCCG-CCTCTTAGATGACAACAACAGCGGGTTT---ATT
+XM_019481308.1  GTGATTTGGCACATG-CTCTTTAG--------------------------
+XM_048037628.1  --------------------------------------------------
+XM_007897274.2  ------------------------------------------TGTTTAAA
+XM_038786278.1  AATGCTGCTTTCATGTATC-------------------------------
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     --------------------------------------------------
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --GAGGAGTCAGAGCTCAAGTTCTTCTTACGGCGGTTTGTCCCAGGGGCA
+XM_019481308.1  -------------------------------------------------G
+XM_048037628.1  --------------------------------------------------
+XM_007897274.2  GGG-----------------------------------------------
+XM_038786278.1  --------------------------------------------------
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     ------------------------------TAGTTGAATAGCCTCAGGCA
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  CGGACTCTGACCGAGA----------------------------------
+XM_019481308.1  ATTTTTTCACTTGAGAATGATTTTTAATTACCTAAATCTTTGCACAACAG
+XM_048037628.1  --------------------------------------------------
+XM_007897274.2  -------------------------------------------------A
+XM_038786278.1  ----------------------------------CACCTAATCCCTGGAA
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     AGTCACTGCCCACCTAAGATGATGGT-TCTTCAACTATAAAATG------
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  GTAGATG-----TTGCAA--CATAGA-TCAACTGTATTGTTTTA------
+XM_048037628.1  --------------------------------------------------
+XM_007897274.2  GGAGA--------GAAAGC---ACAA-TGATCTGTGCTGGTCCAAAACAG
+XM_038786278.1  GGAGATCTCCC-TTGAAGCTGTTGACGTCATCAATAATCTATT-------
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     ---G----------------------------------------------
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  ---AAAATCAAAGTATGAATATTA--------------------------
+XM_048037628.1  --------------------------------------------------
+XM_007897274.2  CTGC----------AGGGAGAGCA--------------------------
+XM_038786278.1  -----------------------GCAAGTAAAAATGAGGAAACGTTTTAG
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     ---AGATAATGGTTACAAATGTCTCTTCCTATAGTATAATCTCCATAAGG
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  --TA-----------------------------TACAAAGATCTG-----
+XM_048037628.1  --------------------------------------------------
+XM_007897274.2  --CG----------------------------------------------
+XM_038786278.1  TGTG-----------------------------GACAAATCTCTA-----
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     GCATGGCCCAAGTCTGTCTTTGACTCTGCCTATCCCTGACATTTAGTAGC
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  --------------------------------------------------
+XM_048037628.1  --------------------------------------------------
+XM_007897274.2  --------------------------------------------------
+XM_038786278.1  --------------------------------------------------
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     ATGCCCGACATACAATGTTAGCTATTGGTATTATTGCCATATAGATAAAT
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  --------------------------------------------------
+XM_048037628.1  --------------------------------TGAAAATCTCGCTTTCAA
+XM_007897274.2  --------------------------------------------------
+XM_038786278.1  --------------------------------------------------
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     TATGTAT--AAAAA------------------------------------
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  --------------------------------------------------
+XM_048037628.1  TCAGGCCAGCGAAGCTATCCAACGTGCTCGTGATGAAGTACGGATCTC--
+XM_007897274.2  --------------------------------------------------
+XM_038786278.1  --------------------------------------------------
+XM_061595159.1  ----ACT--TGATACTACTCAGTGTGC------------------CTCCC
+                                                                  
+
+NM_006139.4     --------------------------------------------------
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  ----------------------TGTTAACCTT---AAGACTATATACAGA
+XM_048037628.1  -------------------CTTGCCTGACG--------------------
+XM_007897274.2  ------------TCTTGGAAGCAGTTGACC--------ACTAT-------
+XM_038786278.1  ----------------------AGTCATCCCTGGTTGCAGGATTATCAAA
+XM_061595159.1  TGTGATTTTTATATTTGTAAAGATTTGAT---------ATTAT-------
+                                                                  
+
+NM_006139.4     --------------------------------------------------
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  CATGTGGGGAGGTTAGATC-------------------------------
+XM_048037628.1  --------------------------------------------------
+XM_007897274.2  --------------------------------------------------
+XM_038786278.1  CATGGCTGGATCTAAGAGAGCTTGAGTGCAAATTTGGAGAACGTTATATC
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     --------------------------------------------------
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  --------------------------------------------------
+XM_048037628.1  --------------------------------------------------
+XM_007897274.2  --------------------------------------------------
+XM_038786278.1  ACTCATGAGAGCGATGATTCCCGCTGGGCACAGTTTGCTGGACAGCATGG
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     ---------------------------------TTAAACTGGGCAATAGC
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  -----------------------------TCATT----------------
+XM_048037628.1  --------------------------------------------------
+XM_007897274.2  ---------------------------------AATATCTG---------
+XM_038786278.1  CTTGGAGTATCCAACACATCTAGTCAACCA--------------------
+XM_061595159.1  ---------------------------------TGTCCCTC---------
+                                                                  
+
+NM_006139.4     CTAAGAAGGGGGGAATATTGTAACACAAATTTA----AACCCACTACGCA
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  -------------------------AAAAATGG----------CCACCCA
+XM_048037628.1  ------------TCAAGCAGC-----------------------TAAATG
+XM_007897274.2  -------------CGTGAAAAAACACAAAATTA----------CCACGCA
+XM_038786278.1  -------------------------CAAAACTACTTGCACTGAGAACACT
+XM_061595159.1  -------------CAAGCAAAAAC--AAAACTA-----------GACGAA
+                                                                  
+
+NM_006139.4     GGGATGAGGTGCTATAATATGAGGACCTTTTAACTTCCATCATTTTCCTG
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  A-------------------------------------------------
+XM_048037628.1  CTTGTGCGGTT---------------------------------------
+XM_007897274.2  GGG------TGCA-------------------------------------
+XM_038786278.1  GACATGGAAGACACAGAAATGAAGGCCTTG----AGTGAACGTGTCAGCA
+XM_061595159.1  GAG------TG---------------------------------------
+                                                                  
+
+NM_006139.4     TTTCTTGAAATAGTTTA----TCTTGTAATGAAA---TA-----------
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  ---TCTAAATGAGTTTG----CCC---------A---GG-----------
+XM_048037628.1  ------------------------------------AACTTGAAGTTCAG
+XM_007897274.2  -------------------------------------TC-----------
+XM_038786278.1  TTCTTTGAAAGGGACTAAGACTCAAGTATTGTAACAAGC-----------
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     ---------------TAAGGCACCTCCCACTTTTATGTATA---------
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  ---------------TGAGG-ACCTTACACTTTGATCCCTACTTAGGTTG
+XM_048037628.1  TAACGATGCCCTCGGTGATG-ATCTTACAC--------------------
+XM_007897274.2  ---------------TGATGTGTCTAAAGCTCTG-CCCAAACCT------
+XM_038786278.1  ---------------ATACCAGCATGCGGAAGGAACCTAC----------
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     -----------------------------GAAAGAGGTCTTTTAATTTTT
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  ATCTAAGTGCAAACTG---------CACAGAAA--TT-------------
+XM_048037628.1  --------------------------------------------------
+XM_007897274.2  -----------ACTTTTAAGCCAAACACGGAAA--GGC------------
+XM_038786278.1  ----------------------------GGAAA-ATAACTGCAACTTCTT
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     TTTTAATGTGAGAAGGAAGGGAGGAGTAGGAAT-CTTGAGATTCCAGATC
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  ----------------------------------CCAAACAGATCAGTCT
+XM_048037628.1  --------------------------------------------------
+XM_007897274.2  -----------------------------------CTAA-------GTAT
+XM_038786278.1  CCTCAATGACA---GCGAGGAAGG------AATGCTTGCTAATTCCTACT
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     GAAAATACTGT----------ACTTTGGTTGATTTTTAAG-TGGG----C
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  AAAAATGGCCC----------AC--TGG-----ATCTAAGTTAAG----C
+XM_048037628.1  ----------------------------TCAGCAAAGAATTTCTGCATGC
+XM_007897274.2  GAAAGTAAACCTCTTCCAGCAACCTTGG----------------------
+XM_038786278.1  GAC--GACTGT----------AA--------ACTTGCAAA-ACAA----C
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     TTCCATTCCAT-----GGATTTAATCAGTCCCAAGAAGATCAAACTCA-G
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  GTACATTCAA-------GA------TAGTCTAACTTAGATCGGATCCA-G
+XM_048037628.1  ------------------------------------------AATCTATG
+XM_007897274.2  ----TTTCCCC----------------------GG-------AATCCA-G
+XM_038786278.1  TGCCATTCTAAAACACAG----TTTCTACCCCAA--TTATCATGCTT---
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     CAGTACTTGGGTGCTGAAGAACTGTTGGATTTACCCTGGCACGTGTGCCA
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  CAAGACC--GAT-----CTAACTG-------AACCTCTCTA---------
+XM_048037628.1  AA-----CCGATGAAGA-----CC-------TTG-GGAACCG--------
+XM_007897274.2  C-----TCTGATGCAGA-----TG-------TTGTTGAGCAC--------
+XM_038786278.1  CAATAATGAAACTATAATGTACTG--------------TCAAGTTCACTT
+XM_061595159.1  ----------------------------AT-----CTAGAAGATATGC--
+                                                                  
+
+NM_006139.4     CT--------TGCCAGCTTCTTGGGC--------------ACACAGAGTT
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  -------------CAGTTCCCAGTGCAGCCCTAGGGCTGCA---------
+XM_048037628.1  --------------AGCTT-------------------------------
+XM_007897274.2  --------------ATCTCCT--------------TTCACA---------
+XM_038786278.1  CTTGCATTTCAAGCAGCATCATGAGT--------------TTA-------
+XM_061595159.1  -----------------------------------------------CGA
+                                                                  
+
+NM_006139.4     CTTCAATCCAAGTTATCAGATTGTATTTGAAAATGACAGAGCTGG-----
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------AT--G-------------
+XM_019481308.1  ------------------------------AAAG--CCCAGCTGC-----
+XM_048037628.1  --------------------------------------------GGCCTG
+XM_007897274.2  ------------------------------AAATC--ATAGCAGG-----
+XM_038786278.1  -------------TATTTGTGTGTAGGCGACTATG---------------
+XM_061595159.1  CTCTCCCAGAAGTTAACTGAT-----------------------------
+                                                                  
+
+NM_006139.4     ----------------AGAGTTTTTTGAAATGGCAGTGGCAAATAAATAA
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  ------------------------------AAA----CCA---------A
+XM_019481308.1  ----------------TG--GCCCCAGCCCTGG----GGC---------T
+XM_048037628.1  GAAATGGTTCAGCAGCC---------------------------------
+XM_007897274.2  ----------------A-----------AGTG----TGGC----------
+XM_038786278.1  --------------------------------------------------
+XM_061595159.1  ------------------------------------TAAAAAACAAACAA
+                                                                  
+
+NM_006139.4     ATACT---------------------------------------------
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  AAACT---------------------------------------------
+XM_019481308.1  GCCCT---------------------------------------------
+XM_048037628.1  --------------------------------------------------
+XM_007897274.2  --GCT---------------------------------------------
+XM_038786278.1  --------------------------------------------------
+XM_061595159.1  ACACTGGCCTTAACAGGAGCTGTCTCCATTGTTGCATAGCACAGCTGAAG
+                                                                  
+
+NM_006139.4     -------------------------------------------TTTTTTT
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------T----T
+XM_019481308.1  --------------------------------------------TTCCCT
+XM_048037628.1  ---------------------------------------GAGTTGGTT-T
+XM_007897274.2  --------------------------------------------TTTCTT
+XM_038786278.1  ---------------------------------------------TTCTT
+XM_061595159.1  GTCTGTCTGGAGCAGTAACCTGACGTTGATGGATATTGACTGCAA-TCAT
+                                                                  
+
+NM_006139.4     AAATGGAAAGACTTGAT---------CTATGGTA----------------
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  A---------------CCTGT---CCCCCCGGCA----------------
+XM_048037628.1  G---------------A---------CAGT--------------------
+XM_007897274.2  G---------------T---------CTGTG-------------------
+XM_038786278.1  G-------------------TACACCCTGTGCTAATGGCAAGCACTAAAT
+XM_061595159.1  G---------------T---------CTGTGC------------------
+                                                                  
+
+NM_006139.4     -----------------------------------------ATAAAT---
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  -----------------------------------------CTAGGT---
+XM_048037628.1  --------------------------------------------GGT---
+XM_007897274.2  ------------------------------------------TTGGT---
+XM_038786278.1  CTATAACTTGCAAGTTAACAGAATGTAATTTTTCTCATTCCATAAACAGT
+XM_061595159.1  -------------------------------------------TTGC---
+                                                                  
+
+NM_006139.4     ----------GATTTT--GT--TTTCTGACTGG---AAAAATAGGCCTAC
+NM_001124434.1  --------------------------------------GACCACTGGGCT
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  ----------TATTTTTAGCTCTC-CTG----------------------
+XM_048037628.1  ----------GAGAATG--C------------------------------
+XM_007897274.2  ----------GATTTT--GC--TT-GTG----------------------
+XM_038786278.1  TTTCCTGTGTGC------------CTTTGCTGGTGAGTATTTCCATCTAT
+XM_061595159.1  ----------AGGGTG--GA--AG-GTG----------------------
+                                                                  
+
+NM_006139.4     TAAAGATGAATCACACTTGAGATGTTTCTTACTC----------------
+NM_001124434.1  GTGGAAAGGGATTCTTGTGCTGTGTTTCTCATTT----------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  ---------------------------------ATGCCTCCCCTCACCCC
+XM_048037628.1  --------------------------------------------------
+XM_007897274.2  ---------------------------------AT---------------
+XM_038786278.1  CTATAATGTATCCCTCGTCAGGGGTG-AGAACTA----------------
+XM_061595159.1  ---------------------------------AT---------------
+                                                                  
+
+NM_006139.4     -----------------ACTCTGCACAGAA-ACAAAGAAGAAATGTTATA
+NM_001124434.1  -----------------CTAATGACAACTG-AATAATTACTAGATTGTTT
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  CAGATGGCCAGG-------------------------------------T
+XM_048037628.1  -------------CCAGGTTCG----------------GGAACCGTCACC
+XM_007897274.2  -----------CTATGTGTCCT----------------GGAAGCGTTATC
+XM_038786278.1  -----------------A-TTTGTAAATTTTGCTTTGTA-AAGTGTTTTT
+XM_061595159.1  -----------GTAT--ATGCT----------------GAATGTGCCATT
+                                                                  
+
+NM_006139.4     ----------------------------------------CAGGGAAGTC
+NM_001124434.1  ----------------------------------------CTGATCAATC
+XM_017482835.3  --------------------ATGTCAGGTTCTGATGGTAACAGCGA----
+XM_019481308.1  CCCCCCACCATTGGACCAGCCAACAGCCCCCA----------GCCCAGC-
+XM_048037628.1  ----------------------------------------CGAGGAGATC
+XM_007897274.2  ----------------------------------------CAGCGA----
+XM_038786278.1  ----------------------------------------AACTTCTTTT
+XM_061595159.1  ----------------------------------------GGGCTG----
+                                                                  
+
+NM_006139.4     CGTTTTCACTATTAGTATGAACC-----------------------AAGA
+NM_001124434.1  ACACATGAAGACATCACATCCGC-----------------------AT--
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  --------------------------------------------------
+XM_048037628.1  GAGTACATCCGTGACA----TGCTCAAAAAAAGCCTCACACTGCACATGG
+XM_007897274.2  --------------GTGTAAAGC-----------------------AA--
+XM_038786278.1  GGTATTGACCAGTATGCCCACTC-----------------------ATGG
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     AATGGTTCAAAAAC--AGTGGTAGGAGCAATG-CTT--------------
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  -----------------------CCAGCAACC-TCCCATGCCAATTGAAG
+XM_048037628.1  ------------ATGAAGCTGCAGCTGCGATG-AGG--------------
+XM_007897274.2  ---------------------CTGCAGCAACG-GTCTTTGGT--------
+XM_038786278.1  AAGAGTACAA---CATTGTG--GGGTGGGGTG-GGG--------------
+XM_061595159.1  ---------GCTTT--AGGTGCTTAAGCAATCAGT---------------
+                                                                  
+
+NM_006139.4     ---------------------------TCATAGTTTCA-GATATG-GTAG
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  TAAGTCTGGGGGGTGAGAGGAAGGGGTGGATGGGAT-G-GGTGTGGCTGG
+XM_048037628.1  ---------------------------GGA--TCT---------------
+XM_007897274.2  ------------------------------------CAGGAGAC--GCAG
+XM_038786278.1  ---------------------------GGAGAGTTTCCGGGTCCG-CTAG
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     TTATG---AAGAAAACAATGTCATTTGCTGCTATTATTGTAAGAG-TCTT
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  TT--T---AGTAGAGGGGGGTTGTTTGGA---------------------
+XM_048037628.1  --------------------------------------------------
+XM_007897274.2  ----GAAAAAGAA----AAGACAGTCGCTG--------------------
+XM_038786278.1  CTAGC-----GACAGGATTCGCAACAGCCCGGAGAATCGGGCGGGGGCAG
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     ATAATTAATGGTACTCCTATAATTTTTGATTGTGAGCTC-----------
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  ------------------GGTGAGGGGAGTTGGGGCGCT-----------
+XM_048037628.1  ------------TTGGCGG--------------------TACCA------
+XM_007897274.2  -AGACAAATGA---------------------------CACCTACCACCC
+XM_038786278.1  AAAATGGGTTTTATGCC---------------------------------
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     --------------------------ACCTA---------TT-------T
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  -------------------------------TGGAAAAATT---------
+XM_019481308.1  --------------------------AAAAATTTCCCCTGT---------
+XM_048037628.1  --------------------------------------------------
+XM_007897274.2  AGGAATATTATGTTGATTATAAACCTACAAA---------TTCCGAAGTT
+XM_038786278.1  -----------------GGGCGTCAAACCCA---------TTGCGAGTTT
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     GGGTTAAGC--ATGCCAATTTAAAGAGACCAAGTGTAT------------
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  GGAGTAGAT--GAA-----------------------TTCCAGAGCATGG
+XM_019481308.1  TCTGGGAGC--GTG-----------------------ACGGCAAGAGCTC
+XM_048037628.1  --GGAGCT------------------------------------------
+XM_007897274.2  GCTGAGATG--TTG-----------------------ATG----------
+XM_038786278.1  CCTGATCTGTCCTGCCGGTC------------------------------
+XM_061595159.1  -------------------------------------GTTGTGTGGATGC
+                                                                  
+
+NM_006139.4     --------------------------------------GTACATTATGTT
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  TC------------------------------------------------
+XM_019481308.1  TC------------------------------------------------
+XM_048037628.1  --------------------------------------------------
+XM_007897274.2  --------------------------------------------------
+XM_038786278.1  --------------------------------------------------
+XM_061595159.1  TCACATCCTTAATGAAACTTGAAACATTTCCCTTTTTAAAATGTCATGTG
+                                                                  
+
+NM_006139.4     CTAC--------------------ATATTCAGTGATAAAATTACTAAACT
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --CTAT--------------------------------------------
+XM_019481308.1  --CCATCCTCCCAGGTCTCCCTGCAGACCCTG-----------CA-AACC
+XM_048037628.1  --------------------------ACCGGG-----------CA-AACA
+XM_007897274.2  --------------------------------------------------
+XM_038786278.1  ------CTGACGAGGTTCCCACCCAGACCCGGCGGGAATAT-GCA-AGTC
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     ACTATATGTCTGCTTTAAAT-TTGTACTTTAATAT----TGTCTTT---T
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  CCCTGAT-CCCACCA--ACCCCTCACA-------G----TGCCTCCCACA
+XM_048037628.1  C-------------------------------------------------
+XM_007897274.2  --------------------------------------------------
+XM_038786278.1  GCT-CAT-TCTACCT--AAT-TTGAAA-------GTACTTGTCTGGC--A
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     GGTATTAAGAAAGATATGCTT-----------------------------
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  G-------------------------------------------------
+XM_048037628.1  --------------------------------------------------
+XM_007897274.2  --------------------AACGGAACAGTTCCCTGCACGTATACCAAA
+XM_038786278.1  GGTCACCAAATTCACCGGCCT-----------------------------
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     --------------------------------TCAGAATAGATATG-CTT
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  ------------------------------------ACCACACTTG-CCC
+XM_048037628.1  ------------------------C-------------------------
+XM_007897274.2  TCTGGCTCCAGGGAGTGTGAGATTCCCATTGCCATGA-ATGTTT------
+XM_038786278.1  --------------------------------CCTGAAATGATCCAGCCC
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     CGCTTTGGCAAGGAATTTGGATAGAACTTGCTATTTAAAAGAGGTGTGGG
+NM_001124434.1  -------------------------------------------------G
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  C------------------------CCCCCCGTTTCCCCCAATCCCTCCT
+XM_048037628.1  ------------------------------CCAACG--------------
+XM_007897274.2  --------------------------------------------------
+XM_038786278.1  CCCTCC-CC-CCTCAGTCGGATG-----TCCCACTGG--TGTGAACTGGT
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     GTAAATCCTTG-TATAAATCTCCAGTTTAGCCTTTTTTG-----------
+NM_001124434.1  TATGGTC-------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  ACAGACCCT----------------GCTTGCCCCTCCCC-----------
+XM_048037628.1  --------------------CAAGGGCCTAACGGCCCTCA----------
+XM_007897274.2  ----------------------------CATCTTTTCTC-A---------
+XM_038786278.1  GCAATTCCT-GAAAAACGGGAACCTGCCAG-CTTCACTGGAAGGGGTGGC
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     ----------AAAAAGCTAGACTTTCAAATACTAATTTCA----------
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  -------------------------ATCCCCCTGTGGACC----------
+XM_048037628.1  -----------------------------------CGAC-----------
+XM_007897274.2  ------CTTATG---------------ACCACCAA---------------
+XM_038786278.1  AAAGGAC-------------------------TGAGTACCTTCCCTACAT
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     ------------CTTCAAGCAGGGTACGTTTC-------TGGTTTGTTTG
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  -----CTTAAAAGAATGG-----CGGATTCCCAGTCCATT----------
+XM_019481308.1  --CCACTTACTCTCCCAA-----GCCCCCTTGTGGATGCT----------
+XM_048037628.1  ----------ACCCTCCACAACA---------------------------
+XM_007897274.2  ---------C-----CAACAACAATAAGTT-------ACT----------
+XM_038786278.1  TTACCTCCAACGTTGCAAG-------------------------------
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     CTTGACTTC------------AGTCACAATTTCTTATCAGACCA-ATGGC
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------ACCAGCAGCCGTGT------GTCCTGTGGTTTC---------
+XM_019481308.1  --------ATCTGCCCCCCTCA------GTCTCCCCCCAAA---------
+XM_048037628.1  --------------------------------------GAA---------
+XM_007897274.2  -------GTGGTG--CACATC----------------AAGA---------
+XM_038786278.1  -------------------------GGGACCCTTCATGAGATGCTGGGGT
+XM_061595159.1  ----CATTA------------GCGAACAATTTCTTCT----CCA-A----
+                                                                  
+
+NM_006139.4     TGACCT-CTT-TGAGATGTCAGGCT----------AGGCTTACCTATGTG
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --ATCTGTCACACTGCTTTTTACATTTCC--A----AATATT--------
+XM_019481308.1  --GCCTGCTTGCCCCCCTGCTAGCCCTCC--ATGCCATCTTA--------
+XM_048037628.1  --GGCT-CT------------------CCATAT--AAGGCT---------
+XM_007897274.2  --GCCT-CTTGA----TTACAAGCA--AT--ATGAAATGCAA--------
+XM_038786278.1  TGTG-G-GGT-GGGGGAGAGGGGTT----------GGGCTTAACTGGAGG
+XM_061595159.1  -----------------------AG----------AGACTCTGAATTG--
+                                                                  
+
+NM_006139.4     TTCTGTGTC---------------------ATGTGA-------ATGCTGA
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  -----TATC-----------------------A-----------------
+XM_019481308.1  -----CCTT-----------------------AGATTAGGTGGCTATTTT
+XM_048037628.1  ----CGTTC-----------------------------------------
+XM_007897274.2  -----GCTCAAGAAGAAATTAAGGATAGCCACAGAGATGT----------
+XM_038786278.1  GGCTCAGTC---------------------TCGGAGAAG----------T
+XM_061595159.1  -----TGTC-----------------------------------------
+                                                                  
+
+NM_006139.4     GAAGTTTGACAGAGATCCAACTTCAGCCTTGACCCCATCAGTCCCTCGGG
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  -------------------------AA-----GACCA-------------
+XM_019481308.1  TAATTTTG-------TCTAACTTC-CT-----CTTCACC-----------
+XM_048037628.1  ----------AGAGAACACCCCCGCGGC----------------------
+XM_007897274.2  TG------ATATGGA-----GTTG--------------------------
+XM_038786278.1  GGAACCTGTCAGAGA-----GTTTAGG-----CCCCACC--CCTCTCAGG
+XM_061595159.1  --------------------GTTCAG------------------------
+                                                                  
+
+NM_006139.4     TTAACTAACTGAGCCACCGGTCCTCATGGCTATTTTAATGAGGGTATTGA
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  --------------------------------------------------
+XM_048037628.1  --------------------------------------------------
+XM_007897274.2  --------------------------------------------------
+XM_038786278.1  TCCA---ATGAAAACCCCGATCCTCTTTAAAAGGTTGACTAT--GTGTCA
+XM_061595159.1  -------------------------------CATCCAAGGAGGGT-----
+                                                                  
+
+NM_006139.4     TGGTTAAATGCATGTCTGATCCCTTATCCCAGCCATTTGC-ACTGCCAGC
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  -----------------------------------TCCCCGAATGTCTG-
+XM_048037628.1  --------------------------------------------------
+XM_007897274.2  --------------------------------------------------
+XM_038786278.1  TGGAATGGCACAAAATTGTGGTTAAAAAAAATTTCTAAATGCCTG-----
+XM_061595159.1  ----------CTCGTTTATTCTCTTATCCTGATTCAATTA----------
+                                                                  
+
+NM_006139.4     TGGGAA--CTATACCAGACCTGGATACTGATCCCAA--AGTGTTAA--AT
+NM_001124434.1  --------------------TTTCTTCTTATGTCCC--TCCACTTG--AC
+XM_017482835.3  ------------------------------------------TCACGCA-
+XM_019481308.1  --TACATAGCCT---AAAACTG-C--CTCAT-TCAG--AGTACCAA--AT
+XM_048037628.1  --------------------------AGATGA----------TGAA--CC
+XM_007897274.2  ---------------AG----------------CAC--AATATCAA--CT
+XM_038786278.1  --GA-ATGGCATATCAGCATTG-CTCCTAACACCAGCGGGAATCAC--AC
+XM_061595159.1  -----------TTCT---------GACAGGTTGCAA--A-----------
+                                                                  
+
+NM_006139.4     TCAAC-TACATGCTGGAGATTAGAGATGG--TGCCAATAAAGGACCCAGA
+NM_001124434.1  CTTGG-ATTCTG--------------------------------------
+XM_017482835.3  ------CTC--CCT------------------------------------
+XM_019481308.1  GGATC-TGC--TCTGGGAATGAGCCATGG---------------------
+XM_048037628.1  GGA---CTC--TCC------------------------------------
+XM_007897274.2  GTAACACGC--TCTGGAA----GCCATGTTCAG----TAAACCG------
+XM_038786278.1  CGATC-TTCCTGCTGGCGGG-AG-TATTC--AGTCTACAAATGG--GAGA
+XM_061595159.1  ----------------AAACAAAAGATGA--AGCCAAGAATATACCCA--
+                                                                  
+
+NM_006139.4     ACCAGGATCTTGATTGCTATAGACTTATTAATAATC--------------
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  ---CTTTGCAGAAT-GGAATTGTGTGAA----AACCCCTGACGTATTTGT
+XM_048037628.1  --------------------------------------------------
+XM_007897274.2  ---------AT--------------AAA--ATG-AC-C------------
+XM_038786278.1  ATTGCG--CCTAATAGCTGTTCTGTGAACAATT-TT--------------
+XM_061595159.1  ------------------------AGAAAAAATATC--------------
+                                                                  
+
+NM_006139.4     -------------------------------------------CAG----
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  TGAGGGTGCTGGGAGAAAGAGTAACGAATACAGCAAAGGACTACAG----
+XM_048037628.1  --------------------------------------------GA----
+XM_007897274.2  -------------------------------------------CAA----
+XM_038786278.1  -------------------------------------------CAG----
+XM_061595159.1  -------------------------------------------GAGGAAG
+                                                                  
+
+NM_006139.4     --------------------------------GTCAAAG-AGAGTGACAC
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  ---------------------------------------CGTTTT-----
+XM_019481308.1  --------------------------------AACAAAAAAGGATG----
+XM_048037628.1  --------------------------------GTCAAA------------
+XM_007897274.2  --------------------------------CACA-GG-AGAGTG----
+XM_038786278.1  --------------------------------CTCAACA-AAGGTTTTTT
+XM_061595159.1  CATATCACCAACAAGAAAGACATTTTCTGCTTTTTAAA--AGAATG----
+                                                                  
+
+NM_006139.4     ---ACACTCTCTCA---------------------------AGACCTGGG
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  ------------------------------------------AATTTGTC
+XM_019481308.1  -----------------------------------------ATCTCAGGG
+XM_048037628.1  ------------------------------------------AACCTGCG
+XM_007897274.2  ------GTCT-TCAAGTCACTGTACAATGAACAAGTAAATGAGGCCAAAT
+XM_038786278.1  AAAATATTCATGTA---------------------------ACCTTTGGG
+XM_061595159.1  --------------------------------------------CCAGC-
+                                                                  
+
+NM_006139.4     G--TGAGGGAGTCTGTGTTATC----------------------TGCAAG
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  TTGTTTGATGGT--------------------------------TGAA--
+XM_019481308.1  T--TGTGGCAGT--------------------------------TGAA--
+XM_048037628.1  T--TGCGGCAGCAAGTCCGAAGAACAGTTCGTCAAAATGCCGGCCGTA--
+XM_007897274.2  C--CATGACAGT--------------------------------TGAA--
+XM_038786278.1  A--TAACCATGT----CCAAAT----------------------TGTATA
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     GCCATTTG-----------------AGGCTCAGAAAGTCTCTCTTTCCTA
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  --------------------------------------------------
+XM_048037628.1  --------------------------------------------------
+XM_007897274.2  --------------------------------------------------
+XM_038786278.1  GC-TTATCAGCAACAAACTGCAATGA------------------------
+XM_061595159.1  --------------------------------------------------
+                                                                  
+
+NM_006139.4     TAGATATATGCATACTTTCTGACATATAGGAATGTATCAGGAATACTCAA
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------TG----------------------------------------
+XM_019481308.1  --------TG------TCACC--ATAAAGAACTG-------GATA-----
+XM_048037628.1  -------TAA------ACA---------G------------AACACT---
+XM_007897274.2  --------AA------ACAT----TAAAGT------------AGCCT---
+XM_038786278.1  --GAAAT---AATACTC-AAGATGTACAG------TGATTGAAGACTT--
+XM_061595159.1  ------TATGCAATCTTCCTC--AT---CAAATGCAT-------------
+                                                                  
+
+NM_006139.4     CCATCACAGGCA-------------TGTTCCTACCTCAGGGCCTTTACAT
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------------------------
+XM_019481308.1  -------CTGCT-------------CCTCTCTGCCACAGTGTTA------
+XM_048037628.1  ----------CAC-------------A-TCCGG-----------------
+XM_007897274.2  ----------CA-------------TGCTCCGA-----------------
+XM_038786278.1  GTTTTATATACAAATTTCAGCTGCTCTTGTAAACCTTAATG---------
+XM_061595159.1  -----GACAGCA-------------ACTCTC-----CATTTTCACTC---
+                                                                  
+
+NM_006139.4     GTCCTGTTTACTCTGTCTAGAATG--------TCCTTCTGTAGATGA---
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  --------------------------------TC------------TGTC
+XM_019481308.1  ----------------CTA-GGTGGTGCTGGGAA------------AGTC
+XM_048037628.1  -------------------------------------------------T
+XM_007897274.2  -------------------------------------------------C
+XM_038786278.1  ----------CCTTAGCTATGGTG--------TCT---CTTACAGG----
+XM_061595159.1  -----ATGTACTCTCTCTTCAAAG--------------------------
+                                                                  
+
+NM_006139.4     -------CCTGGCT---------TGCCTC---G--------TCACCCTTC
+NM_001124434.1  --------------------------------------------------
+XM_017482835.3  A-------------------TTGC----CCTCA-----------------
+XM_019481308.1  ACTTAAACCAAACTTTTCAGAGTT----GATCA--------TT-------
+XM_048037628.1  ATGTAACACC-------CCG-ATT----GGAGA-----------------
+XM_007897274.2  ACATAAATCA-------CTGTATT----A-ACA--------T-------G
+XM_038786278.1  ---------------------ATT----GGTCAGGTTGAATT-------C
+XM_061595159.1  --------CCAGCT-------------TC---A--------TT-------
+                                                                  
+
+NM_006139.4     AG-GTCCTTGCTCAAGTGTCATCTTCTCCCCTAGTTAAACTACCCCAC--
+NM_001124434.1  --------------------------------------TGGACTTCCT--
+XM_017482835.3  -TG-------CT---------------------------------CG-TC
+XM_019481308.1  AGGGCAGTG-AT------------TCTCAACCAG-----------GG-TG
+XM_048037628.1  ---------------------------TAACTAA-----G-GCTAGA-TG
+XM_007897274.2  GAGGAA-----C------------TA-TAATCAA------------G-TG
+XM_038786278.1  TG-CTACTTTCTTTAG---CATTT---TAACTAA--AAATTGCTTGA-TA
+XM_061595159.1  AG--TTTTGTTTTAA--------------------------------GTC
+                                                                  
+
+NM_006139.4     -------ACC-CTG--------TCTGCTTTCCTTGCTTATTTTTCTCCAT
+NM_001124434.1  -------TCC-ATG------------------------------------
+XM_017482835.3  CCACATGACC----------------------------------------
+XM_019481308.1  CCACAGCACC-CTGGGG---CACTTT------------------------
+XM_048037628.1  CC-----------GG-----------------------------------
+XM_007897274.2  TCACACAA----AGG-G---------------------------------
+XM_038786278.1  CCATGTGACCTCTGGTTAAACGGTTT------------------------
+XM_061595159.1  CAGCTGAAAA-CTGGGA---CATGAT------------------------
+                                                                  
+
+NM_006139.4     A--GC-ATT-------TTACCAT---CTCTTACATTAGAC---------A
+NM_001124434.1  --------------------------------------AC----------
+XM_017482835.3  ------------AAGG----------------------------------
+XM_019481308.1  GAGAT-AATTTCAAGGGCGT--T---GTG----------TTTC--C---A
+XM_048037628.1  -A------------------------------------------------
+XM_007897274.2  -AAATAGACT----------------------------------------
+XM_038786278.1  GAATT-CATTAAAATGTTGTCAAAATGTGT----------CTATTCAGTA
+XM_061595159.1  G--AC-AAT-------CACACAT---GTA----------CAAT--A---A
+                                                                  
+
+NM_006139.4     TTTTTCTTATTTATTTGTAGTTTATAAGCTTCATGAGGCAAGTAACTTTG
+NM_001124434.1  -----------------------------------------TTAAC----
+XM_017482835.3  --------------------------------------ACA-AAAC----
+XM_019481308.1  CT---GTTATGTAT-----GCAAACATGATTCAAAAG-ATA-A-ACCCAG
+XM_048037628.1  ---------------------------------------------ATATG
+XM_007897274.2  -----G-------------------------------------GACT--G
+XM_038786278.1  CAT--TTCATGTCATAGCGGCTGAGAATTTTCAACATCATAGAATCCCTA
+XM_061595159.1  C---TGTTCTCTA----------ACAGTCTT--ATAG-AAG--GGCTCTG
+                                                                  
+
+NM_006139.4     -CTTTGTTTCTTGCTG--TAT--CT---CCAG----TG-CCCAG-AGCAG
+NM_001124434.1  --------------TG--T-------------------------------
+XM_017482835.3  ----T--------------GT--T-----CAG----GG------------
+XM_019481308.1  AGATTTCAAA---TAGG-AAT--TC---ACAG----TG-TT---------
+XM_048037628.1  GGA-------T----G--TA---------TGG----CA-T----------
+XM_007897274.2  T---TGTTTTT--TTG--AGTTTCT---ACTGACTTTAACCC--------
+XM_038786278.1  -CAGTGCAGAA-GGAGGCTAT--TCGGCCCAT----CG-TCT-GCACCA-
+XM_061595159.1  AT---ACATAT--TTG--TGG--CT---TCTG----TA-TCC--------
+                                                                  
+
+NM_006139.4     TGCCTGGTATAT-AATAA-ATATTTATTGA--CTGAGTGAA
+NM_001124434.1  ------------------------------------GTGTC
+XM_017482835.3  --------------A-AA--------------------CAA
+XM_019481308.1  -------------AA-AA-CCATTC--------TG-CCCTG
+XM_048037628.1  ---------T---GA-TATGTCTTG---------A-CCCAT
+XM_007897274.2  --------------TGCA-GTATTT-T------T--GAAGA
+XM_038786278.1  -----ACCCTCTGAAAGA-GCACCC-TACACCCTG-CCGCA
+XM_061595159.1  --------------A-GA-TTATCC-----------ATGAT
+                                                         
+
+
+

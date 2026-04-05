@@ -28,14 +28,14 @@ def load_data():
 
 # write to fasta files
 def write_to_fasta(taxa_registry):
-    cd28_fasta_file_g = open("fastaFiles/sequenceList_cd28_g.fasta", "x")
-    ctla4_fasta_file_g = open("fastaFiles/sequenceList_ctla4_g.fasta", "x")
-    icos_fasta_file_g = open("fastaFiles/sequenceList_icos_g.fasta", "x")
-    pd1_fasta_file_g = open("fastaFiles/sequenceList_pd1_g.fasta", "x")
-    cd28_fasta_file_p = open("fastaFiles/sequenceList_cd28_p.fasta", "x")
-    ctla4_fasta_file_p = open("fastaFiles/sequenceList_ctla4_p.fasta", "x")
-    icos_fasta_file_p = open("fastaFiles/sequenceList_icos_p.fasta", "x")
-    pd1_fasta_file_p = open("fastaFiles/sequenceList_pd1_p.fasta", "x")
+    cd28_fasta_file_g = open("fastaFiles/sequenceList_cd28_g.fasta", "w")
+    ctla4_fasta_file_g = open("fastaFiles/sequenceList_ctla4_g.fasta", "w")
+    icos_fasta_file_g = open("fastaFiles/sequenceList_icos_g.fasta", "w")
+    pd1_fasta_file_g = open("fastaFiles/sequenceList_pd1_g.fasta", "w")
+    cd28_fasta_file_p = open("fastaFiles/sequenceList_cd28_p.fasta", "w")
+    ctla4_fasta_file_p = open("fastaFiles/sequenceList_ctla4_p.fasta", "w")
+    icos_fasta_file_p = open("fastaFiles/sequenceList_icos_p.fasta", "w")
+    pd1_fasta_file_p = open("fastaFiles/sequenceList_pd1_p.fasta", "w")
 
     cd28_gene_list = []
     ctla4_gene_list = []
