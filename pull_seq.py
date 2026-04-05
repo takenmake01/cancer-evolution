@@ -1,7 +1,8 @@
 '''
 This program pulls the SeqRecord objects using the NCBI entrez API (WIP)
 
-Access data via: taxa_registry['Common Name'].gene_symbol['type']
+Stored in a 
+Access the data via: taxa_registry['Common Name'].gene_symbol['type']
 Example: taxa_registry['Human'].cd28['protein_seq'] returns a BioPython SeqRecord for the prtein sequence for cd28.
 Keys for gene_symbol: .cd28, .ctla4, .icos, .pd1
 Keys for type: 'gene_seq', 'protein_seq', 'gene_id', 'protein_id' (last two are the accession numbers)
@@ -11,11 +12,12 @@ taxa_registry['Human'].cd28['protein_seq'].seq[:50]
 
 '''
 from Bio import Entrez, SeqIO
-from bio_models import TaxaData, load_data, save_data # Get the custom TaxaData Class and pickle methods
+from bio_models import TaxaData, load_data, save_data, write_to_fasta # Get the custom TaxaData Class and pickle methods
 import time
 
+api_email = input("Enter your email for the NCBI Entrez API (required): ")
 
-Entrez.email = "evan.boonstra@mytwu.ca" # Needed for Entrez API call
+Entrez.email = api_email # Needed for Entrez API call
 #Entrez.api_key = # May be needed for faster requests, currently don't know how to get
 
 # Initial declaration of TaxaData Objects
@@ -60,9 +62,10 @@ species_list = [
 # Check if the species data is already downloaded. Returns None if nothing is saved
 taxa_registry = load_data()
 
+# Else pull sequences for proteins and genes using entrez
 if (taxa_registry):
     print("Sequence data loaded from disk. Good stuff!")
-# Else pull sequences for proteins and genes using entrez
+
 else:
     taxa_registry = {} # Stores references to the TaxaData items in the list, but makes it searchable by common name
     for species in species_list:
@@ -87,3 +90,5 @@ print(taxa_registry.keys())
 print(taxa_registry['Human'].cd28['protein_seq'].seq[:50])
 print(taxa_registry['Human'].cd28['gene_seq'].seq[:50])
 
+# write the registry to a set of FASTA files
+write_to_fasta(taxa_registry)
