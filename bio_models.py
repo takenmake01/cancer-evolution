@@ -49,14 +49,14 @@ def write_to_fasta(taxa_registry):
     for taxa in taxa_registry.keys():
         genes, proteins = taxa_registry[taxa].get_records()
 
-        cd28_gene_list.append(genes[0])
-        ctla4_gene_list.append(genes[1])
-        icos_gene_list.append(genes[2])
-        pd1_gene_list.append(genes[3])
-        cd28_protein_list.append(proteins[0])
-        ctla4_protein_list.append(proteins[1])
-        icos_protein_list.append(proteins[2])
-        pd1_protein_list.append(proteins[3])
+        if genes[0] is not None: cd28_gene_list.append(genes[0])
+        if genes[1] is not None: ctla4_gene_list.append(genes[1])
+        if genes[2] is not None: icos_gene_list.append(genes[2])
+        if genes[3] is not None: pd1_gene_list.append(genes[3])
+        if proteins[0] is not None: cd28_protein_list.append(proteins[0])
+        if proteins[1] is not None: ctla4_protein_list.append(proteins[1])
+        if proteins[2] is not None: icos_protein_list.append(proteins[2])
+        if proteins[3] is not None: pd1_protein_list.append(proteins[3])
 
     SeqIO.write(cd28_gene_list, cd28_fasta_file_g, "fasta")
     SeqIO.write(ctla4_gene_list, ctla4_fasta_file_g, "fasta")
@@ -101,18 +101,28 @@ class TaxaData:
         self.icos = {"gene_id": icos_ids[0], "protein_id": icos_ids[1], "gene_seq": None, "protein_seq": None}
         self.pd1 = {"gene_id": pd1_ids[0], "protein_id": pd1_ids[1], "gene_seq": None, "protein_seq": None}
 
+    # fetches the sequences from NCBI using the accession numbers and stores them in the class as SeqRecord objects
+    # if the accession number is "N/A", it will skip the fetch and leave the sequence as None (for species that don't have a sequence for a given gene)
     def fetch_sequences(self):
         data = [self.cd28, self.ctla4, self.icos, self.pd1]
         for item in data:
-            # Fetch Nucleotide Sequence from NCBI
-            handle_g = Entrez.efetch(db="nucleotide", id=item["gene_id"], rettype="fasta", retmode="text")
-            item["gene_seq"] = SeqIO.read(handle_g, "fasta") #Convert to SeqRecord and add to gene dict in self
-            handle_g.close()
 
-            # Fetch Protein Sequence from NCBI
-            handle_p = Entrez.efetch(db="protein", id=item["protein_id"], rettype="fasta", retmode="text")
-            item["protein_seq"] = SeqIO.read(handle_p, "fasta") #Convert to SeqRecord and add to protein dict in self
-            handle_p.close()
+            if item["gene_id"] == "N/A":
+                item["gene_seq"] = None
+            else:
+                # Fetch Nucleotide Sequence from NCBI
+                handle_g = Entrez.efetch(db="nucleotide", id=item["gene_id"], rettype="fasta", retmode="text")
+                item["gene_seq"] = SeqIO.read(handle_g, "fasta") #Convert to SeqRecord and add to gene dict in self
+                handle_g.close()
+
+            if item["protein_id"] == "N/A":
+                item["protein_seq"] = None
+            else:
+                # Fetch Protein Sequence from NCBI
+                handle_p = Entrez.efetch(db="protein", id=item["protein_id"], rettype="fasta", retmode="text")
+                item["protein_seq"] = SeqIO.read(handle_p, "fasta") #Convert to SeqRecord and add to protein dict in self
+                handle_p.close()
+
 
     # a function to return the SeqRecords contained in the class
     def get_records(self):
@@ -120,6 +130,7 @@ class TaxaData:
         record_p = [self.cd28["protein_seq"], self.ctla4["protein_seq"], self.icos["protein_seq"], self.pd1["protein_seq"]]
 
         return record_g, record_p
+
 
     def __repr__(self):
         # Count how many protein sequences have been successfully loaded
