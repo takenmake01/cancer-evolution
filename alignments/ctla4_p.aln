@@ -1,334 +1,82 @@
-CLUSTAL FORMAT for T-COFFEE Version_13.45.63.463ab4c0 [http://www.tcoffee.org] [MODE:  ], CPU=0.01 sec, SCORE=502, Nseq=8, Len=1618 
+CLUSTAL FORMAT for T-COFFEE Version_13.45.63.463ab4c0 [http://www.tcoffee.org] [MODE:  ], CPU=0.00 sec, SCORE=740, Nseq=11, Len=269 
 
-NP_005205.2     MACLGFQRHK--------------------------AQ------------
-XP_032271200.1  MSTPGVNASA--------------------------SSTP----------
-XP_017338322.1  MMAERRF--LLQLVWLFLLGLTLETAYTHAFTHRRLQ-------------
-XP_019336858.1  MEAAGDPSPS--------------------------ES-R----------
-XP_047899018.1  MFRVPRSP-F--------------------------RE-R----------
-XP_007906523.1  MAGKAQEDEF--------------------------DQ-VDKPGAERSRR
-XP_038642208.1  MAAAAGSGKM--------------------------TK-F----------
-XP_061451043.1  MNGPPSAV-A--------------------------G-------------
-                *                                                 
+XP_006267305.1  MIALL-IT-------------------IGFLCT--ATGI-A-KVMEVTQP
+XP_017324683.1  MIAFV-IT-------------------LI-VG----FPL-G-HAFTVSQP
+XP_007888798.1  MRLTN-IMEH---S-------RFLVLGF--ICL--QIELGF-QDIQVFQP
+XP_035266074.1  MIPAL-IT-------------------LISLC----THA-G-RALRVQQP
+XP_039610963.1  MALTR-LA-------------------LVSVL----LCR-A-AALHIYQP
+NP_005205.2     MACLG-FQRHKAQLNLATRTWPCTL--LFFLLF--IPVF-C-KAMHVAQP
+XP_055494227.1  MALLR-----------------CLLLAFLWMCM--TGR-PS-VGLNVSQP
+XP_036831244.1  MSLSL-LT-------------------FLCLSL--YLPV-W-NALRVTQP
+XP_038646294.1  MEKMRNLG-------------------LFILCFPAFIQL-GVANMSISTL
+XP_033900514.1  MIFKV-IA-------------------CISIC----IGW-G-NAFEVFQP
+XP_013027132.2  MLSVL-VT-------------------VGFLCT--ATAI-A-EVMEVSQP
+                *                             :             : :   
 
-NP_005205.2     --------------------------------------LNLATRTWPCTL
-XP_032271200.1  --------------------------------------------DRPNSP
-XP_017338322.1  -------------------------------------QHKILQLDWPKEC
-XP_019336858.1  --------ESLLARRRSSDDFWLLRSHSSEAENEQ--DVQVPEHEIPSSV
-XP_047899018.1  --------------------------------------------F-SPWI
-XP_007906523.1  RRTENDDWESDLEDDLLSDDWGLSKKNQSDLSDEELDDNLLQSDEEPNES
-XP_038642208.1  --------------------------------------------ECPSEF
-XP_061451043.1  -------------------------------------------------M
-                                                                  
+XP_006267305.1  AMVLANRKGTASLVCEYKHIGN--AKEIRVTLLKQTG--NQFTEICASTY
+XP_017324683.1  YYAIG-GQGQVSFHCTINTKSQ--PGEMQVSVYKGMY--G-EKRICSAYV
+XP_007888798.1  RFLEANSDGEATLVCSHDHTGH--AVELQVTIRKT----N-QEEVCNGTY
+XP_035266074.1  YRVEA-RDGEARLRCSYAVRGS--PEEMRLTLYRGKF--G-DDLVCQRTF
+XP_039610963.1  YRVNANSDGLAQLACSFNHTGR--GQELRVTLLRGLA--G-KDVVCKSSF
+NP_005205.2     AVVLASSRGIASFVCEYASPGK--ATEVRVTVLRQAD--SQVTEVCAATY
+XP_055494227.1  RCLGVSNMNEFALECEHSS-DD--VAELALTILKGL---N-KSEVCRGVI
+XP_036831244.1  YRVVG-FRGEVELFCSYHHTGRHEPEELRVTLYRGAYREG-KQEVCTSSF
+XP_038646294.1  QFLKANHNGEASLVCALRSTEA--GEELQVVLYKGEQ--SQRTEVCTASF
+XP_033900514.1  NRVEANNSGVARLRCNYNFTGK--GEEFRITLFRGIS--D-QTIVCASSF
+XP_013027132.2  AMVLANRQGVASLVCKYKHIGN--AKEIRVTLLKQTG--DQFTEICASTY
+                        .   : *           *. : : :     .    :*    
 
-NP_005205.2     --------------------------------------------------
-XP_032271200.1  V-----------------T-------------------------------
-XP_017338322.1  GL------------------------------------------------
-XP_019336858.1  YE---KDQKLSTCSRKKSSHVWQDPWTPLQKAYS----------------
-XP_047899018.1  --------------------------------------------------
-XP_007906523.1  YE---GEYVEFNASASLEL--------------SKSIDKGTEELFEYAEQ
-XP_038642208.1  LPCPRA------PLC-----------------------------------
-XP_061451043.1  A-----------------R-------------------------------
-                                                                  
+XP_006267305.1  TTEYEM-FSVE--KIIQCHVSPSRNNVTLTLTGLQPNDTGLYICKMERMY
+XP_017324683.1  NISYPH-IATN--GGVYCRGNVSRGKVDLTIFGLRGEDTDLYRCQIDIIF
+XP_007888798.1  NSTTKP-FQTR--ARFHCWIQPGEGNVSVTIYGFNSSAIDYYFCKLERVH
+XP_035266074.1  NTTQSH-FQTDG-PVVRCRGELTPGGVDLAVSGLRGEDTDIYRCQLEVLY
+XP_039610963.1  QLPNTS-LESD--EPLSCQGNASANRLDLTVPGLSGADTDFYRCKVEILY
+NP_005205.2     MMGNEL-TFLD--D-SICTGTSSGNQVNLTIQGLRAMDTGLYICKVELMY
+XP_055494227.1  SSTELY-ITSY--GQLNCQFQRIPNKISVIISGLHSSMIDIYFCKIELLY
+XP_036831244.1  THNQTS-FQVEGVGEVRCRGQLGPGRVNLTISGLQGNDTDLYYCGIEVMY
+XP_038646294.1  TNGTMEPSERK--DLFRCQVSLSQNNVSITVSGLNVTDTDRYFCQVSKTH
+XP_033900514.1  HLPNTT-FETKE-GLFSCQGEASRNSVDLTISGMSSFDTDIYKCRVEIMY
+XP_013027132.2  TTEFKM-FSVE--EVIQCRVSPSRNNVTLTLTGLQVNDTGLYVCKMERMY
+                                 *      . : : : *:     . * * :.  .
 
-NP_005205.2     ------------------------L-------------------------
-XP_032271200.1  --------------IPAVMFIFGVV-------------------------
-XP_017338322.1  --------------------------------------------------
-XP_019336858.1  ---------------PLD------S-------------------------
-XP_047899018.1  --------------------------------------------------
-XP_007906523.1  DPYDQNTALEDVEDAPGGEELEGYSQDDYTEEGVQYEGDEAVEDQVDYTG
-XP_038642208.1  --------------------------------------------------
-XP_061451043.1  --------------TKA---------------------------------
-                                                                  
+XP_006267305.1  PPPYFMNTGNGTQLYVMDP-EPCPDTDLYL---------W--ILG----A
+XP_017324683.1  PPPYISKFGNGTLVHIPDS-PDCPPEHTQARIQEIPE-ITYDQTLSFPNI
+XP_007888798.1  PPVYQSGIGNGTLIYIAGKK-HPSSAALDLK-DQLFQVTL--LLA----V
+XP_035266074.1  PPPYLMKYGNGTIVYIPEK-TDCPTPASQAQ-DEPQS-TQ--VVLPI--A
+XP_039610963.1  PPPYRLGLGSGTLIYVAER-PPCPAKEHSM--------DW--VFM----A
+NP_005205.2     PPPYYLGIGNGTQIYVIDP-EPCPDSDFLL---------W--ILA----A
+XP_055494227.1  PPPFESSEGSGTFIYPSSKDMKCPRFSF----------LL--IMG----I
+XP_036831244.1  PPPYLRRFGNGTLLFIPEE-PGCSLPEAQRT-SDMGE-TS--VRLAL--A
+XP_038646294.1  PPPYFESPGQWTIIYINRA-TNCHAGQESS---DAHLLTV--IFI----V
+XP_033900514.1  PPPYRQRVGNGTVIYIPEI-QTCPKIESSM--------EW--IFV----A
+XP_013027132.2  PPPYFMNKGNGTQLYVIDP-EPCPDTAIYL---------W--VLG----A
+                ** :    *. * :.                                   
 
-NP_005205.2     --------------------------------------------------
-XP_032271200.1  --------------------------------------------------
-XP_017338322.1  --------------------------------------------------
-XP_019336858.1  --------------------------------------------------
-XP_047899018.1  --------------------------------------------------
-XP_007906523.1  EQGEDEMYNDEVLDLEINDPLDDEFQEEEYTYSTSQDAAEQLQPEVNEEY
-XP_038642208.1  --------------------------------------------------
-XP_061451043.1  --------------------------------------------------
-                                                                  
+XP_006267305.1  AASGLF-LYSII-ISAF-LLSRAIRKRRY-----LTTGVYVKMPPEEPQ-
+XP_017324683.1  VLSAILITTTITLILQV-MKMILTQRK----------SNHVIQ-THVSQK
+XP_007888798.1  FAFILL-IYSIA-IT---FVHFHSKREKGTTTELDHNSVYEKMAPTVNGD
+XP_035266074.1  VMAIFIIIFIIA-IISIYMFFNTSQRK----------RMYPHMTPVTSNR
+XP_039610963.1  VPVTVVVCTVIV-IISI-LVYRTLNRKA--------NSEYVDTAPVIPEK
+NP_005205.2     VSSGLF-FYSFL-LTAV-SLSKMLKKRSP-----LTTGVYVKMPPTEPEC
+XP_055494227.1  LIPVLT-LCMIN-IF---FLTTKSKMKTV-----NVNPVYEHMAPTRG--
+XP_036831244.1  GLVAANILMVIS-VVAF-LLYQVLQRK----------RRFGGITPMISQN
+XP_038646294.1  LAILLF-LYSVS-VTV---MCCRHQMKD--------DTIYINVRK-----
+XP_033900514.1  VSGCIIACTVII-IAAI-LVIRICQQNR--------KADYVDMSPVISEK
+XP_013027132.2  TASGFF-LYSFI-ISAV-VVGKAIQRRRR-----LTTGVYVKMPSEKLE-
+                          .  :          . .            .          
 
-NP_005205.2     -----------------FFLL-FIPVFC----------------------
-XP_032271200.1  -----------------GNLV-AIVVLCKSRKEQK---------------
-XP_017338322.1  --------------------------------------------------
-XP_019336858.1  -----------------GKKK-PTRDWL----------------------
-XP_047899018.1  --------------------------------------------------
-XP_007906523.1  EHENIAMDSQEPVPELVNEPIEVVNQICEAKTETKEVSDDEDEDDEESGR
-XP_038642208.1  ----------SLTPEKVNDPS-----------------------------
-XP_061451043.1  --------------------------------DRG---------------
-                                                                  
-
-NP_005205.2     --------------KAM---------------------------------
-XP_032271200.1  ---------ETTFYTLVCGL------------------------------
-XP_017338322.1  --------------------------------------------------
-XP_019336858.1  --------------TQK---------------------------------
-XP_047899018.1  -------------RLSALGR-----------------------------R
-XP_007906523.1  IRFKTERKEGTVIRLTDAARKRRNIPDTLELSDEAKAALREFEEMERQRK
-XP_038642208.1  --------------------------------------------------
-XP_061451043.1  -------GTGGAYRKVVAAR------------------------------
-                                                                  
-
-NP_005205.2     --------------------------------------------------
-XP_032271200.1  --------------------------------------------------
-XP_017338322.1  -----------------------------------------------A--
-XP_019336858.1  --------------------------------------------------
-XP_047899018.1  HGRR-------------RPRQTGFGGRERQRL-----RISCRTERAYIYL
-XP_007906523.1  QGRRGRRGGGPGNFGFCDPRKDGGGRRRDQRPPLMQMPLSLQNPHPMMNF
-XP_038642208.1  --------------------------------------------------
-XP_061451043.1  --------------------------------------------------
-                                                                  
-
-NP_005205.2     ------------------------------------------------HV
-XP_032271200.1  -----------------AV-------------------------------
-XP_017338322.1  --------------------------------------------------
-XP_019336858.1  ------------------------------------------------HV
-XP_047899018.1  ALLTAPRSSQKAAAVRLLPTSRLSYTLSHLQSALHDYLLTMQLLALALLA
-XP_007906523.1  SDYTPGRGS----------------------------------FQQQQQR
-XP_038642208.1  --------------------------------------------------
-XP_061451043.1  -----------------AP-------------------------------
-                                                                  
-
-NP_005205.2     AQPAVVLAS-----------------------------------------
-XP_032271200.1  ---TDLLGT-----------------------------------------
-XP_017338322.1  --------------------------------------------------
-XP_019336858.1  SLVKAVSSE-----------------------------------------
-XP_047899018.1  STPAAVSA------------------------------------------
-XP_007906523.1  RQPPPLMGNPRQPPPSQFPIRPQQGQQQQQQQHHPPQQHPPPPPQQQQHH
-XP_038642208.1  --------------------------------------------------
-XP_061451043.1  ---RKVLG------------------------------------------
-                                                                  
-
-NP_005205.2     --------------------------------------------------
-XP_032271200.1  ----------------------------------LLVSPVTI--------
-XP_017338322.1  --------------------------------------------------
-XP_019336858.1  --------------------------------------------------
-XP_047899018.1  --------------------------------------------------
-XP_007906523.1  QQHQQQNSETSTLNQTGPPTQQSKNIHINPHFRGPVVSPVQVPLMPTPSQ
-XP_038642208.1  --------------------------------------------------
-XP_061451043.1  --------------------------------------------------
-                                                                  
-
-NP_005205.2     --------------------------------------------------
-XP_032271200.1  --------------------------------------------------
-XP_017338322.1  --------------------------------------------------
-XP_019336858.1  --------------------------------------------------
-XP_047899018.1  --------------------------------------------------
-XP_007906523.1  PRPAVGPQRFLSPPEFQPPIPVPGNFNQPPRLPLQ---------------
-XP_038642208.1  ----------------------------------TELWLIKAPADFDPHG
-XP_061451043.1  --------------------------------------------------
-                                                                  
-
-NP_005205.2     --------------------------------------------------
-XP_032271200.1  -------------------------ATYMKGQWPGGEALCE---------
-XP_017338322.1  --------------------------------------------------
-XP_019336858.1  --------------------------------------------------
-XP_047899018.1  --------------------------------------------------
-XP_007906523.1  --------------------------------------------------
-XP_038642208.1  FSGRKIPLVGFQTLKSKTYRDKLYNVFGTSGGAEGVSLVLPLEKEGHGES
-XP_061451043.1  --------------------------------------------------
-                                                                  
-
-NP_005205.2     --------------------------------------------------
-XP_032271200.1  ---------------------YSTFILLFFSLSGLSIICAMSIERYLAIN
-XP_017338322.1  --------------------------------------------------
-XP_019336858.1  --------------------------------------------------
-XP_047899018.1  --------------------------------------------------
-XP_007906523.1  -----------EPWRGPHPQDREPFFMGEPRFQGQHMFQQRSPPPPLMNN
-XP_038642208.1  CPPFAGCITIGESWEDP---------------------------------
-XP_061451043.1  --------------------------------------------------
-                                                                  
-
-NP_005205.2     --------------------------------------------------
-XP_032271200.1  --------------------------------------------------
-XP_017338322.1  --------------------------------------------------
-XP_019336858.1  --------------------------------------------------
-XP_047899018.1  --------------------------------------------------
-XP_007906523.1  HPMPLQPPMVYNHPGPGFNQQQQHLFPREAPVRTSLQPQGPMGMPPFNQP
-XP_038642208.1  --------------------------------------SGSEGL----RS
-XP_061451043.1  --------------------------------------------------
-                                                                  
-
-NP_005205.2     --------------------------------------------------
-XP_032271200.1  --------------------------------------------------
-XP_017338322.1  --------------------------------------------------
-XP_019336858.1  --------------------------------------------------
-XP_047899018.1  --------------------------------------------------
-XP_007906523.1  GPLNPRPFIPPRHQFPQGPGQPFPPSALLQPNMQPPMPMQPPPPHNHCSP
-XP_038642208.1  IPVSPAPSIPPG--------------------------------------
-XP_061451043.1  --------------------------------------------------
-                                                                  
-
-NP_005205.2     ---------------------------------------------S----
-XP_032271200.1  -------HAYFYSHYVDKRLAGLTLVAVYASNVLFCALPNMGLGSSRLQY
-XP_017338322.1  ---------YFKPHTTER---------------------IVSGNEA---R
-XP_019336858.1  ---------------------------------------------S----
-XP_047899018.1  --------------------------------------------------
-XP_007906523.1  QPIIPNAPQQFRPHLQMP---------------------LITVNDNRLQH
-XP_038642208.1  --------------------------------------------------
-XP_061451043.1  --------------------------------------------------
-                                                                  
-
-NP_005205.2     --------------------------------------------------
-XP_032271200.1  PD------------------------------------------------
-XP_017338322.1  PH------------------------------------------------
-XP_019336858.1  --------------------------------------------------
-XP_047899018.1  --------------------------------------------------
-XP_007906523.1  PQRQSGMKLRHIFQSFEFSLSHLLNYTLPNVPGQQNLNKLPNQFQASQRN
-XP_038642208.1  ------LKL-----------------------------------------
-XP_061451043.1  --------------------------------------------------
-                                                                  
-
-NP_005205.2     ---------------------------------------------RGI--
-XP_032271200.1  --------------------------TWCFIDWTTNVT--AHAAFSYMYA
-XP_017338322.1  --------------------------SWP---WQVSLQVRPRGSKHYL--
-XP_019336858.1  ---------------------------------------------KGI--
-XP_047899018.1  ------------------------------------------ATCSGLST
-XP_007906523.1  SNLRELPVAPHNAGVRQHRPMSAPPAQPLSTSWAKPIT--PTQAAPRMKQ
-XP_038642208.1  --------------------------------------------------
-XP_061451043.1  --------------------------------------------------
-                                                                  
-
-NP_005205.2     ---ASFVCEY-------------------------------ASPGKATEV
-XP_032271200.1  GFSSFLILAT-------------------------------VLCNVLV--
-XP_017338322.1  ----------------------------------------------HV--
-XP_019336858.1  ---T--------------------------------------------DS
-XP_047899018.1  GAMAAIIVES-------------------------------VVIFLLV--
-XP_007906523.1  MGQTAQIAPSVNAPQKPPQQKYTKQKSQDPVAAELSDEDEETRIYRLK--
-XP_038642208.1  --------RFQPFGAAVPWRLPRKRRGDSAVAPELGDQGEPLAKRRKG--
-XP_061451043.1  -------------------------------------------SGNAN--
-                                                                  
-
-NP_005205.2     RVTV----------------------------------------------
-XP_032271200.1  ----CGAL-----LR-----------------------------------
-XP_017338322.1  ----CGGTL-IHKNWVLTAAHCFQKGKDEDAGNWRIVLGKHQLKKSEAVE
-XP_019336858.1  AKTILDEEDYFVKEVDRYLNH-----------------------------
-XP_047899018.1  ----IVLL-----SV-----------------------------------
-XP_007906523.1  ----IEEQKRLREEI-----------------------------------
-XP_038642208.1  ----ANTVAVSGH-------------------------------------
-XP_061451043.1  ----VGSS-----PA-----------------------------------
-                                                                  
-
-NP_005205.2     ----------------LRQADSQVT----EVCAA----TYMMGNE-----
-XP_032271200.1  ----------------MHRQFMRRTS----L---------GT--------
-XP_017338322.1  RIFPVKRIYRHE--------------------------------------
-XP_019336858.1  -----------NDFLNLRKKEIQYKKWLERVSEP----LLHKIEDKVDSQ
-XP_047899018.1  ----------------LRQLQIARNK----LKAA----HLHEGQEYKRGP
-XP_007906523.1  ----------------LRQKELRRQQ----QAGARKKELLERLAQ-----
-XP_038642208.1  --------------------------------------------------
-XP_061451043.1  ----------------SRKAES----------------------------
-                                                                  
-
-NP_005205.2     --------------------------------------------------
-XP_032271200.1  --------------------------EQ--------HHAAGPVAVPWAHC
-XP_017338322.1  --------------------------------------------------
-XP_019336858.1  SSEE------------------IEERKRNQLALYLNYCNKKGNVV-FEDY
-XP_047899018.1  ASDDRADRNHSTSSLVQSPQQDNYEESH--------VALLPPSLRPQSHS
-XP_007906523.1  ---------QQQQQQQRQQQQQQQQQQQCSVQPPLQHHPANAPQI-FQNC
-XP_038642208.1  --------------------------------------------------
-XP_061451043.1  --------------------------KY--------TGGNP---------
-                                                                  
-
-NP_005205.2     --------------------------------------------------
-XP_032271200.1  -RSNPTAAS------------------------------------PALPR
-XP_017338322.1  --------------------------------------------------
-XP_019336858.1  ---------------------------DASE-------------------
-XP_047899018.1  -FSSPPSVR-------S------------------------STLYDFTPR
-XP_007906523.1  NPSTPQAASPAQPSIKTRLFSKKLGVGVGLQLQPNKIQEVGNILHLQTEM
-XP_038642208.1  --------------------------------------------------
-XP_061451043.1  -----VCTR------------------------------------PTPPW
-                                                                  
-
-NP_005205.2     --------------------------------------------------
-XP_032271200.1  LSDFRRRRSFRGIAGAEIQMVILLIATSLVVLICSIPLVVRVFINQLYQP
-XP_017338322.1  --------HFRYPVHSDLDYDIALV-------------------------
-XP_019336858.1  -----------------------------------------------YD-
-XP_047899018.1  QE-------------------------------------DFGFDFKSY--
-XP_007906523.1  RK-------------------------------------NIVNQIKQI--
-XP_038642208.1  --------------------------------------------------
-XP_061451043.1  QK-------------------------------------GIG-EFFRQ--
-                                                                  
-
-NP_005205.2     --------------------------------------------------
-XP_032271200.1  RLVQEISKNPDLQAIRIAAVNPILDPWIYILLRK---TVLS---------
-XP_017338322.1  ------KA------------------GTDILPSNFIRYACL---------
-XP_019336858.1  ---------------------------PFFLKTH---TNYWKVSTPPFKD
-XP_047899018.1  ------RPSSVVQPSTTVQP-PVAVAQPTILQPL---THVA---------
-XP_007906523.1  ------RPSPPNQSQGPAQSKPVGTPGPSVLPGK---MGVS---------
-XP_038642208.1  --------------------------------------------------
-XP_061451043.1  ------SPKHLEKE------------------------------------
-                                                                  
-
-NP_005205.2     --------------------------------------------------
-XP_032271200.1  --------KAIEKIKCLFCR------------IGGSRRDRSGQHCSDSRR
-XP_017338322.1  ------------PRKQISLKPGHYCWVT---GWGDTRGGKDNVSLAES--
-XP_019336858.1  PLLKEVQGKSLEKGIIQQCE------------TG----------------
-XP_047899018.1  ------------EVSMASLP------------NPHSEHGHGGDHDDDD--
-XP_007906523.1  ------------TVNQLELKPGVKRTVMQRMNSGGGGGGGDGPHINPK--
-XP_038642208.1  --------------------------------------------------
-XP_061451043.1  --------------NQVSEE------------------------------
-                                                                  
-
-NP_005205.2     --------------------------LTF--------------LDDSICT
-XP_032271200.1  TSSAMSGHSRSFLSRELKEISSTSQTLL-------------YMP------
-XP_017338322.1  -------------------L---NQARLPIID------------------
-XP_019336858.1  ---------RIYSAKEMNE---LHKAKLP--------------PLPLGRQ
-XP_047899018.1  --------------DEQST---THESLL-------------PTPL-----
-XP_007906523.1  -------------------I---RVLKLPVMQESENTVFSHPEPQ-----
-XP_038642208.1  ------------------------------EPEQEEAAFEHSD-------
-XP_061451043.1  --------------------------------------------------
-                                                                  
-
-NP_005205.2     GTSSGNQVN-------------------LTIQGLRAMDTGLYICKVELMY
-XP_032271200.1  --------------------------------------------------
-XP_017338322.1  -----------HKTCRQKKFWGDRVRESMICAGFRDT-------------
-XP_019336858.1  RWDAVEWLK-------------------I---------------------
-XP_047899018.1  --------------------------------------------------
-XP_007906523.1  --------PQRQQQQQQQQLKQQPVRKVTLVKGARLQQQQQQQQQQQRQH
-XP_038642208.1  --------------------------------------------------
-XP_061451043.1  --------------------------------------------------
-                                                                  
-
-NP_005205.2     PPPYYLGIGNG-------------------------------------T-
-XP_032271200.1  ---------DLSENGL-------G-GRNLLPGVPAMGPVQ---ADTTSL-
-XP_017338322.1  -----------------------GGPPAACQGDSGGPLMCQVGEDRWEVR
-XP_019336858.1  --------------------------------------------------
-XP_047899018.1  --P--RAAQPSDDSET-------SGRRVRLRGVVRI---L---WAADVV-
-XP_007906523.1  PVPQLLGMMKNSVN-QQQNRVIMQGRGIALPGQMGRGRMM---QHKQNL-
-XP_038642208.1  --------------------------------------------------
-XP_061451043.1  --------PGCSGIGK-------HRR-KARPLSPYP--------------
-                                                                  
-
-NP_005205.2     QIYVIDPEPCPDSDFLLWILAAVSSGLF-FYSFL---LTAVSLSKMLKKR
-XP_032271200.1  RTLRI-------------------------SETSD--SSQGQDSE-----
-XP_017338322.1  GVVSFGPVGCTVE---NK--P----SVFTRTAAYMPWIEATRIRDF----
-XP_019336858.1  -----APGYI-------------------------------DSEVHQRKR
-XP_047899018.1  GALERGPTPISRT---TTAST----TLSTYSDVST--PITGPVHE-----
-XP_007906523.1  RVVECRPQPCVVS---IEGLSSSTTDFQ-LKNLL---MSVGPIQD-----
-XP_038642208.1  -----------------------------------------TGSV-----
-XP_061451043.1  -------------------------------GEHE--A---PSED-----
-                                                                  
-
-NP_005205.2     S-----PLTTGVYVKM-------PP---------------TEPECEKQFQ
-XP_032271200.1  SVLLVDEVNGSSRSGPAPK----------------------GNSLQVTFP
-XP_017338322.1  -FFY----------------------------------------------
-XP_019336858.1  RRMTRNQNKGTLDFKAWSDTACLPILWKEGMHIHQDQKYQTTESCQK---
-XP_047899018.1  LLI-NRQRDSGSQAH-T-V----------------------ASAVRP---
-XP_007906523.1  FKMIREQRKAIAKFKEPAH----------------------ASAFQQKFH
-XP_038642208.1  ELG-HRKREKKRRKHKEAE-------------------------IPQTVP
-XP_061451043.1  EQM-----------------------------------------------
-                                                                  
-
-NP_005205.2     PYFIPIN-----------
-XP_032271200.1  NEMLNLSEKC-------I
-XP_017338322.1  ------------------
-XP_019336858.1  ------------------
-XP_047899018.1  ------------------
-XP_007906523.1  RHMIDLSHINVALIMDE-
-XP_038642208.1  WEVGHKKK---KKKKDKH
-XP_061451043.1  ------------------
-                                  
+XP_006267305.1  -KTFKP---FHITI----N
+XP_017324683.1  GDYRNF------------W
+XP_007888798.1  QSRRNTKTPNLVGSHHRLA
+XP_035266074.1  VDCRFG---YENF-----L
+XP_039610963.1  MKTNSR---YVM------F
+NP_005205.2     EKQFQP---YFIPI----N
+XP_055494227.1  ------------------R
+XP_036831244.1  -DGRFG---YGNF-----Q
+XP_038646294.1  -------------------
+XP_033900514.1  RNSNNR---YVI------L
+XP_013027132.2  -KKVIP---FHITV----N
+                                   
 
 
 
